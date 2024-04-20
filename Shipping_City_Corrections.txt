@@ -1,0 +1,2968 @@
+UPDATE amazonsales
+SET ShipCity = 'CHIKKAMAGALURU'
+WHERE ShipCity = '(Chikmagalur disterict).     (N.R pur thaluku)';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = ',HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'TADONG'
+WHERE ShipCity = '6th mile tadong';
+UPDATE amazonsales
+SET ShipCity = 'BARASAT'
+WHERE ShipCity = '7BARASAT';
+UPDATE amazonsales
+SET ShipCity = 'ABHAYAPURI'
+WHERE ShipCity = 'ABHAYAPURI, Bongaigaon';
+UPDATE amazonsales
+SET ShipCity = 'AGAR'
+WHERE ShipCity = 'AGAR Malwa';
+UPDATE amazonsales
+SET ShipCity = 'AGRA'
+WHERE ShipCity = 'AGRA 282005';
+UPDATE amazonsales
+SET ShipCity = 'AHMEDABAD'
+WHERE ShipCity = 'ahemadabad';
+UPDATE amazonsales
+SET ShipCity = 'AHMEDABAD'
+WHERE ShipCity = 'Ahemdabad';
+UPDATE amazonsales
+SET ShipCity = 'AHMEDABAD'
+WHERE ShipCity = 'Ahmadabad';
+UPDATE amazonsales
+SET ShipCity = 'AHMEDNAGAR'
+WHERE ShipCity = 'AHMADNAGAR';
+UPDATE amazonsales
+SET ShipCity = 'AHMEDPUR'
+WHERE ShipCity = 'AHMADPUR';
+UPDATE amazonsales
+SET ShipCity = 'AHMEDABAD'
+WHERE ShipCity = 'AHMEDABAD 380007';
+UPDATE amazonsales
+SET ShipCity = 'AHMEDABAD'
+WHERE ShipCity = 'AHMEDABAD 380013';
+UPDATE amazonsales
+SET ShipCity = 'AHMEDABAD'
+WHERE ShipCity = 'AHMEDABAD 380014';
+UPDATE amazonsales
+SET ShipCity = 'AHMEDABAD'
+WHERE ShipCity = 'AHMEDABAD,';
+UPDATE amazonsales
+SET ShipCity = 'AHMEDABAD'
+WHERE ShipCity = 'AHMEDABAD.';
+UPDATE amazonsales
+SET ShipCity = 'AIROLI'
+WHERE ShipCity = 'airoli, navi mumbai';
+UPDATE amazonsales
+SET ShipCity = 'AKBARPUR'
+WHERE ShipCity = 'AKBARPUR NEAR KANPUR';
+UPDATE amazonsales
+SET ShipCity = 'AKOLE'
+WHERE ShipCity = 'AKOLE AHMADNAGAR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'ALAMCODE'
+WHERE ShipCity = 'ALAMCODE MALAPPURAM DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'ALAMCODE'
+WHERE ShipCity = 'ALAMCODE Vanchiyoor THIRUVANANTHAPURAM DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'ALANDI'
+WHERE ShipCity = 'Alandi pune';
+UPDATE amazonsales
+SET ShipCity = 'ALANDI'
+WHERE ShipCity = 'Alandi, pune';
+UPDATE amazonsales
+SET ShipCity = 'ALANGAD'
+WHERE ShipCity = 'Alangad via';
+UPDATE amazonsales
+SET ShipCity = 'ALAPPUZHA'
+WHERE ShipCity = 'Alapuzhya';
+UPDATE amazonsales
+SET ShipCity = 'ALANGULAM'
+WHERE ShipCity = 'ALANGULAM TIRUNELVELI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'ALIPORE'
+WHERE ShipCity = 'ALIPORE KOLKATA';
+UPDATE amazonsales
+SET ShipCity = 'PRAYAGRAJ'
+WHERE ShipCity = 'ALLAHABAD Prayagraj';
+UPDATE amazonsales
+SET ShipCity = 'PRAYAGRAJ'
+WHERE ShipCity = 'ALLAHABAD';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'bangalore';
+UPDATE amazonsales
+SET ShipCity = 'GUWAHATI'
+WHERE ShipCity = 'GUWAHATI, KAMRUP (M)';
+UPDATE amazonsales
+SET ShipCity = 'RAWAN'
+WHERE ShipCity = 'RAWAN AMBUJA CEMENT PLANT';
+UPDATE amazonsales
+SET ShipCity = 'ANDUL'
+WHERE ShipCity = 'Andul near maya stores';
+UPDATE amazonsales
+SET ShipCity = 'PICHHORE'
+WHERE ShipCity = 'PICHHORE SHIVPURI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'SIKANDRABAD'
+WHERE ShipCity = 'SIKANDARABAD INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'NEELAKUDY'
+WHERE ShipCity = 'Neelakudi, Thiruvarur';
+UPDATE amazonsales
+SET ShipCity = 'FARIDPUR'
+WHERE ShipCity = 'FARIDPUR BAREILLY DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'ARVI'
+WHERE ShipCity = 'ARVI,Dist- wardha';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'MUMBAI 400101';
+UPDATE amazonsales
+SET ShipCity = 'KAMATAGI'
+WHERE ShipCity = 'KAMATGI,Hunugund taluk,Bagalkot district';
+UPDATE amazonsales
+SET ShipCity = 'THANE'
+WHERE ShipCity = 'THANE (W)';
+UPDATE amazonsales
+SET ShipCity = 'SANGAREDDY'
+WHERE ShipCity = 'Sangareddy District';
+UPDATE amazonsales
+SET ShipCity = 'NOIDA PHASE-2'
+WHERE ShipCity = 'Noida extension';
+UPDATE amazonsales
+SET ShipCity = 'DURGA NAGAR'
+WHERE ShipCity = 'Durganagar ,Nimta south';
+UPDATE amazonsales
+SET ShipCity = 'UDAIPUR'
+WHERE ShipCity = 'UDAIPURudipur';
+UPDATE amazonsales
+SET ShipCity = 'CHAMARAJANAGAR'
+WHERE ShipCity = 'CHAMARAJANAGAR, district and subdistrict';
+UPDATE amazonsales
+SET ShipCity = 'KANNAMANGALAM'
+WHERE ShipCity = 'KANNAMANGALAM ALAPPUZHA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'MALVANI'
+WHERE ShipCity = 'MUMBAI,Malad West,Malvani.';
+UPDATE amazonsales
+SET ShipCity = 'AMBERNATH'
+WHERE ShipCity = 'AMBARNATH (E)';
+UPDATE amazonsales
+SET ShipCity = 'AMBERNATH'
+WHERE ShipCity = 'AMBARNATH';
+UPDATE amazonsales
+SET ShipCity = 'AMBERNATH'
+WHERE ShipCity = 'AMBARNATH East';
+UPDATE amazonsales
+SET ShipCity = 'AMBERNATH'
+WHERE ShipCity = 'AMBARNATH West';
+UPDATE amazonsales
+SET ShipCity = 'AMBERNATH'
+WHERE ShipCity = 'AMBARNATH, West';
+UPDATE amazonsales
+SET ShipCity = 'AMBERNATH'
+WHERE ShipCity = 'Ambernath [e] DISTRICT AMBERNATH';
+UPDATE amazonsales
+SET ShipCity = 'AMBERNATH'
+WHERE ShipCity = 'Ambernath East Dist Thane';
+UPDATE amazonsales
+SET ShipCity = 'AMETHI'
+WHERE ShipCity = 'AMETHI SULTANPUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'AMMAPETTAI'
+WHERE ShipCity = 'AMMAPETTAI ERODE DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'AMRAVATI'
+WHERE ShipCity = 'Amravati.';
+UPDATE amazonsales
+SET ShipCity = 'ANAKAPALLI'
+WHERE ShipCity = 'Anakapalli mandal';
+UPDATE amazonsales
+SET ShipCity = 'ANAKAPALLI'
+WHERE ShipCity = 'ANAKAPALLE';
+UPDATE amazonsales
+SET ShipCity = 'ANDHERI EAST'
+WHERE ShipCity = 'ANDHERI EAST, MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'ANDHERI WEST'
+WHERE ShipCity = 'ANDHERI WEST, MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'ANDUL'
+WHERE ShipCity = 'Andul, Howrah';
+UPDATE amazonsales
+SET ShipCity = 'ANJUNA'
+WHERE ShipCity = 'ANJUNA Bardez Go';
+UPDATE amazonsales
+SET ShipCity = 'ANKLESHWAR'
+WHERE ShipCity = 'Ankleshwar, Dist-Bharuch';
+UPDATE amazonsales
+SET ShipCity = 'ANNA NAGAR WEST'
+WHERE ShipCity = 'anna Nagar west, chennai';
+UPDATE amazonsales
+SET ShipCity = 'ANPARA'
+WHERE ShipCity = 'Anpara,Sonebhadra';
+UPDATE amazonsales
+SET ShipCity = 'ARANI'
+WHERE ShipCity = 'ARANI TIRUVANNAMALAI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'ARGUL'
+WHERE ShipCity = 'Argul, Khordha';
+UPDATE amazonsales
+SET ShipCity = 'ARMUR'
+WHERE ShipCity = 'ARMOOR';
+UPDATE amazonsales
+SET ShipCity = 'ASANSOL'
+WHERE ShipCity = 'Asansol, West Barddhaman';
+UPDATE amazonsales
+SET ShipCity = 'VANSDA'
+WHERE ShipCity = 'At post Unai,ta vansda di navsari';
+UPDATE amazonsales
+SET ShipCity = 'ATMAKUR'
+WHERE ShipCity = 'ATMAKUR SRI POTTI SRIRAMULU';
+UPDATE amazonsales
+SET ShipCity = 'ATMAKUR'
+WHERE ShipCity = 'Atmakur, MANGALAGIRI';
+UPDATE amazonsales
+SET ShipCity = 'ATTABIRA'
+WHERE ShipCity = 'Attabira Dist- Bargarh';
+UPDATE amazonsales
+SET ShipCity = 'ATUL'
+WHERE ShipCity = 'ATUL dist. Valsad';
+UPDATE amazonsales
+SET ShipCity = 'AUNDH'
+WHERE ShipCity = 'Aundh, PUNE';
+UPDATE amazonsales
+SET ShipCity = 'AURANGABAD'
+WHERE ShipCity = 'Aurangbad';
+UPDATE amazonsales
+SET ShipCity = 'AVINASHI'
+WHERE ShipCity = 'Avinashi, Tirupur';
+UPDATE amazonsales
+SET ShipCity = 'AWALPUR'
+WHERE ShipCity = 'AWALPUR, dist Chandrapur';
+UPDATE amazonsales
+SET ShipCity = 'AYODHYA'
+WHERE ShipCity = 'Ayodhya Faizabad';
+UPDATE amazonsales
+SET ShipCity = 'AYYAMPETTAI'
+WHERE ShipCity = 'AYYAMPETTAI THANJAVUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'AZHEEKAL'
+WHERE ShipCity = 'Azheekal Telephone exchange';
+UPDATE amazonsales
+SET ShipCity = 'AZHIKODE'
+WHERE ShipCity = 'AZHIKODE ,kannur';
+UPDATE amazonsales
+SET ShipCity = 'BACHUPALLY'
+WHERE ShipCity = 'BACHUPALLY, HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'BADDI'
+WHERE ShipCity = 'BADDI INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'BADLAPUR'
+WHERE ShipCity = 'BADLAPUR EAST';
+UPDATE amazonsales
+SET ShipCity = 'BADLAPUR'
+WHERE ShipCity = 'BADLAPUR, JAUNPUR';
+UPDATE amazonsales
+SET ShipCity = 'BADSHAHPUR'
+WHERE ShipCity = 'BADSHAHPUR GURGAON';
+UPDATE amazonsales
+SET ShipCity = 'BAGUIATI'
+WHERE ShipCity = 'BAGUIATI KOLKATA';
+UPDATE amazonsales
+SET ShipCity = 'BAHADARABAD'
+WHERE ShipCity = 'BAHADRABAD GAS PLANT HARIDWAR';
+UPDATE amazonsales
+SET ShipCity = 'BAINGUINIM'
+WHERE ShipCity = 'BAIGUINIM, OLD GOA';
+UPDATE amazonsales
+SET ShipCity = 'BAJAJNAGAR'
+WHERE ShipCity = 'BAJAJNAGAR, AURANGABAD.';
+UPDATE amazonsales
+SET ShipCity = 'BALIPATNA'
+WHERE ShipCity = 'BALIPATNA, KHURDA';
+UPDATE amazonsales
+SET ShipCity = 'BALKUM'
+WHERE ShipCity = 'BALKUM, THANE';
+UPDATE amazonsales
+SET ShipCity = 'BANAGANAPALLI'
+WHERE ShipCity = 'BANAGANAPALLI, KURNOOL';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BANASWADI, BENGALURU';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'BANDRA KURLA COMPLEX, MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BANGALORE CITY 560002';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BANGALORE NORTH';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BANGALORE RURAL';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BANGALORE URBAN';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BANGALORE, KARNATAKA';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BANGALORE18';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BANGALORE-560 086';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BANGANLORE';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BANGLORE';
+UPDATE amazonsales
+SET ShipCity = 'MANGALURU'
+WHERE ShipCity = 'BANTWAL, DAKSHINA KANNADA';
+UPDATE amazonsales
+SET ShipCity = 'BARAMATI'
+WHERE ShipCity = 'BARAMATI,PUNE';
+UPDATE amazonsales
+SET ShipCity = 'DADHAPATNA'
+WHERE ShipCity = 'BARANG, DADHAPATNA';
+UPDATE amazonsales
+SET ShipCity = 'BARGARH'
+WHERE ShipCity = 'BARGARH DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'BAROTIWALA'
+WHERE ShipCity = 'BAROTIWALA INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'BARRACKPORE'
+WHERE ShipCity = 'BARRACKPORE , KOLKATA';
+UPDATE amazonsales
+SET ShipCity = 'VIJAYAPURA'
+WHERE ShipCity = 'BASAVANABAGEVADI, VIJAPURA';
+UPDATE amazonsales
+SET ShipCity = 'BASUDEBPUR'
+WHERE ShipCity = 'BASUDEBPUR MURSHIDABAD DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'BASUDEBPUR'
+WHERE ShipCity = 'BASUDEBPUR/BHADRAK';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'BAVDHAN PUNE';
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'BEHALA, KOLKATA';
+UPDATE amazonsales
+SET ShipCity = 'BELA PRATAPGARH'
+WHERE ShipCity = 'BELA, PRATAPGARH';
+UPDATE amazonsales
+SET ShipCity = 'BELLARE PRATAPGARH'
+WHERE ShipCity = 'BELLARE VILLAGE AND POST';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALOORU';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALUR';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURE';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU - 560008';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU 560016';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU 560020';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU 560037';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU 560062';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU 560064';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU 560066';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU EAST';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU NORTH';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU RURAL DIST';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU SOUTH';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU,DEVNAHALLI';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BENGALURU-97';
+UPDATE amazonsales
+SET ShipCity = 'KOPPAL'
+WHERE ShipCity = 'BHAGYA NAGAR,9916015445,KOPPAL';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'BHANDUP- EAST';
+UPDATE amazonsales
+SET ShipCity = 'BHATKAL'
+WHERE ShipCity = 'BHATKAL-UTTARA KANNADA';
+UPDATE amazonsales
+SET ShipCity = 'BHATNI BAZAR'
+WHERE ShipCity = 'BHATNI BAZAR (DEORIA)';
+UPDATE amazonsales
+SET ShipCity = 'THANE'
+WHERE ShipCity = 'BHAYANDAR EAST';
+UPDATE amazonsales
+SET ShipCity = 'THANE'
+WHERE ShipCity = 'BHAYANDER (EASY)';
+UPDATE amazonsales
+SET ShipCity = 'THANE'
+WHERE ShipCity = 'BHAYANDER EAST';
+UPDATE amazonsales
+SET ShipCity = 'BHILAI'
+WHERE ShipCity = 'BHILAI  490020';
+UPDATE amazonsales
+SET ShipCity = 'BHILAI'
+WHERE ShipCity = 'BHILAI DURG';
+UPDATE amazonsales
+SET ShipCity = 'BHOJIPURA'
+WHERE ShipCity = 'BHOJIPURA, BAREILLY';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'BHOSARI, PUNE';
+
+UPDATE amazonsales
+SET ShipCity = 'BHUBANESWAR'
+WHERE ShipCity = 'BHUBANESHWAR, ODISHA';
+UPDATE amazonsales
+SET ShipCity = 'BHUBANESWAR'
+WHERE ShipCity = 'BHUBANESWAR, 751003';
+UPDATE amazonsales
+SET ShipCity = 'BHUGAON'
+WHERE ShipCity = 'BHUGAON MULSHI ROAD';
+UPDATE amazonsales
+SET ShipCity = 'DURGAPUR'
+WHERE ShipCity = 'BIDHAN NAGAR, KOLKATA';
+UPDATE amazonsales
+SET ShipCity = 'BEGUSARAI'
+WHERE ShipCity = 'BIHTA BEGUSARAI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'PATNA'
+WHERE ShipCity = 'BIHTA PATNA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'BINOLA'
+WHERE ShipCity = 'BINOLA INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'BIRATI, KOLKATA';
+UPDATE amazonsales
+SET ShipCity = 'BISHNUPUR'
+WHERE ShipCity = 'BISHNUPUR BANKURA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'RANCHI'
+WHERE ShipCity = 'BIT CAMPUS MESRA, RANCHI';
+UPDATE amazonsales
+SET ShipCity = 'BODINAYAKANUR'
+WHERE ShipCity = 'BODINAYAKANUR, THENI DT';
+UPDATE amazonsales
+SET ShipCity = 'BOKARO STEEL CITY'
+WHERE ShipCity = 'BOKARO THERMAL TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'BANARPAL'
+WHERE ShipCity = 'BONDA,BANARPAL';
+UPDATE amazonsales
+SET ShipCity = 'BONGAIGAON'
+WHERE ShipCity = 'BONGAIGAON IOCL TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'BORIVALI EAST, MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'BUDAMANGALAM'
+WHERE ShipCity = 'BUDAMANGALAM , THIRUVARUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'NAGPUR'
+WHERE ShipCity = 'BUTIBORI MIDC';
+UPDATE amazonsales
+SET ShipCity = 'NAGPUR'
+WHERE ShipCity = 'BUTIBORI';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'BYATRYANPURA';
+UPDATE amazonsales
+SET ShipCity = 'CALANGUTE'
+WHERE ShipCity = 'CALANGUTE, BARDEZ';
+UPDATE amazonsales
+SET ShipCity = 'KUNNAMANGALAM'
+WHERE ShipCity = 'CALICUT KUNNAMANGALAM';
+UPDATE amazonsales
+SET ShipCity = 'CAMURLIM'
+WHERE ShipCity = 'CAMURLIM, BARDEZ';
+UPDATE amazonsales
+SET ShipCity = 'CARONA'
+WHERE ShipCity = 'CARONA, ALDONA';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'CBD BELAPUR,NAVI MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'KAKKANAD'
+WHERE ShipCity = 'CEPZ PO, KAKKANAD ,KOCHI';
+UPDATE amazonsales
+SET ShipCity = 'PIPRA'
+WHERE ShipCity = 'CHAKIA PIPRA';
+UPDATE amazonsales
+SET ShipCity = 'PIPRA'
+WHERE ShipCity = 'CHAKIA';
+UPDATE amazonsales
+SET ShipCity = 'CHALAKKAL'
+WHERE ShipCity = 'CHALAKKAL,ALUVA';
+UPDATE amazonsales
+SET ShipCity = 'CHALAKUDY'
+WHERE ShipCity = 'CHALAKUDY , THRISSUR';
+UPDATE amazonsales
+SET ShipCity = 'CHAMARAJANAGAR'
+WHERE ShipCity = 'CHAMARAJANAGARA';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURUR'
+WHERE ShipCity = 'CHAMBENAHALLI SARJAPURA ROAD BANGLORE';
+UPDATE amazonsales
+SET ShipCity = 'CHAMPAKULAM'
+WHERE ShipCity = 'CHAMPAKULAM, ALAPPUZHAA';
+UPDATE amazonsales
+SET ShipCity = 'CHANDIGARH'
+WHERE ShipCity = 'CHANDIAGARH';
+UPDATE amazonsales
+SET ShipCity = 'CHANDIGARH'
+WHERE ShipCity = 'CHANDIGAR';
+UPDATE amazonsales
+SET ShipCity = 'CHANDIGARH'
+WHERE ShipCity = 'CHANDIGARH - 160023';
+UPDATE amazonsales
+SET ShipCity = 'CHANDIPUR'
+WHERE ShipCity = 'CHANDIPUR MALDAH DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'CHANDUR'
+WHERE ShipCity = 'CHANDUR AMRAVATI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'CHANDUR'
+WHERE ShipCity = 'CHANDUR RAILWAY, DIST - AMRAVATI';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'CHEMBUR , MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'CHEMBUR MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'CHEMBUR, MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'CHENNAI 106';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'CHENNAI 42';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'CHENNAI 600004';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'CHENNAI- 600040';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'CHENNAI -600053';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'CHENNAI.';
+UPDATE amazonsales
+SET ShipCity = 'CHENTHRAPINI'
+WHERE ShipCity = 'CHENTRAPPINI (VIA ),CHAMAKKALA';
+UPDATE amazonsales
+SET ShipCity = 'CHENTHRAPINI'
+WHERE ShipCity = 'CHENTRAPPINNI';
+UPDATE amazonsales
+SET ShipCity = 'CHHABRA'
+WHERE ShipCity = 'CHHABRA, BARAN';
+UPDATE amazonsales
+SET ShipCity = 'CHATRAPUR'
+WHERE ShipCity = 'CHHATRAPUR';
+UPDATE amazonsales
+SET ShipCity = 'CHATRAPUR'
+WHERE ShipCity = 'CHHATARPUR';
+UPDATE amazonsales
+SET ShipCity = 'CHIKKAMAGALURU'
+WHERE ShipCity = 'CHIKAMAGULUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'CHINCHWAD GAON'
+WHERE ShipCity = 'CHINCHWAD GAON PUNE';
+UPDATE amazonsales
+SET ShipCity = 'CHITRADA'
+WHERE ShipCity = 'CHITRADA VILLAGE';
+UPDATE amazonsales
+SET ShipCity = 'CHITTOOR'
+WHERE ShipCity = 'CHITTOOR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'CHUNKANKADAI'
+WHERE ShipCity = 'CHUNKANKADAI, NAGERCOIL';
+UPDATE amazonsales
+SET ShipCity = 'DHARUHERA'
+WHERE ShipCity = 'CITY -DHARUHERA';
+UPDATE amazonsales
+SET ShipCity = 'COIMBATORE'
+WHERE ShipCity = 'COIMBATORE 641041';
+UPDATE amazonsales
+SET ShipCity = 'COIMBATORE'
+WHERE ShipCity = 'COIMBATORE I';
+UPDATE amazonsales
+SET ShipCity = 'COLACHAL'
+WHERE ShipCity = 'COLACHAL, KANYA KUMARI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'COMPLEX ,ANDHERI WEST,MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'CONTAI'
+WHERE ShipCity = 'CONTAI, EAST MEDINIPUR';
+UPDATE amazonsales
+SET ShipCity = 'COOCH BEHAR'
+WHERE ShipCity = 'COOCHBEHAR';
+UPDATE amazonsales
+SET ShipCity = 'CURTORIM'
+WHERE ShipCity = 'CURTORIM,SOUTH GOA';
+UPDATE amazonsales
+SET ShipCity = 'CUTTACK'
+WHERE ShipCity = 'CUTTACK SADAR';
+UPDATE amazonsales
+SET ShipCity = 'CUTTACK'
+WHERE ShipCity = 'CUTTACKCUTTACK';
+UPDATE amazonsales
+SET ShipCity = 'DAMDIM'
+WHERE ShipCity = 'DAMDIM, JALPAIGURI';
+UPDATE amazonsales
+SET ShipCity = 'DANAPUR'
+WHERE ShipCity = 'DANAPUR,PATNA,BIHAR';
+UPDATE amazonsales
+SET ShipCity = 'DANDELI'
+WHERE ShipCity = 'DANDELI(UTTAR KANNADA)';
+UPDATE amazonsales
+SET ShipCity = 'DAPODI'
+WHERE ShipCity = 'DAPODI PIMPRI CHINCHWAD PUNE';
+UPDATE amazonsales
+SET ShipCity = 'DAUDHAR'
+WHERE ShipCity = 'DAUDHAR, MOGA';
+UPDATE amazonsales
+SET ShipCity = 'DAUND'
+WHERE ShipCity = 'DAUND PUNE';
+UPDATE amazonsales
+SET ShipCity = 'DAVANAGERE'
+WHERE ShipCity = 'DAVANGERE';
+UPDATE amazonsales
+SET ShipCity = 'DAVANAGERE'
+WHERE ShipCity = 'DAVANGERE-577004';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'DELHI 110085';
+UPDATE amazonsales
+SET ShipCity = 'DERA BASSI'
+WHERE ShipCity = 'DERA BASSI INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'DERA BASSI'
+WHERE ShipCity = 'DERA BASSI INDUSTRIAL AREA MOHALI';
+UPDATE amazonsales
+SET ShipCity = 'DEVGAD'
+WHERE ShipCity = 'DEVGAD, SINDHUDURG';
+UPDATE amazonsales
+SET ShipCity = 'DHARAMPUR'
+WHERE ShipCity = 'DHARAMPUR INDUSTRIAL ESTATE';
+UPDATE amazonsales
+SET ShipCity = 'DHARAMPUR'
+WHERE ShipCity = 'DHARAMPURI';
+UPDATE amazonsales
+SET ShipCity = 'DHARAMSHALA'
+WHERE ShipCity = 'DHARAMSALA';
+UPDATE amazonsales
+SET ShipCity = 'DHARAMPUR'
+WHERE ShipCity = 'DHARMAPURI';
+UPDATE amazonsales
+SET ShipCity = 'DHARAMSHALA'
+WHERE ShipCity = 'DHARMSALA';
+UPDATE amazonsales
+SET ShipCity = 'DHARAMSHALA'
+WHERE ShipCity = 'DHARMSHALA';
+UPDATE amazonsales
+SET ShipCity = 'DHASAI'
+WHERE ShipCity = 'DHASAI, SHAHAPUR';
+UPDATE amazonsales
+SET ShipCity = 'DHOLKA'
+WHERE ShipCity = 'DHOLKA, AHMEDABAD';
+UPDATE amazonsales
+SET ShipCity = 'DIBIYAPUR'
+WHERE ShipCity = 'DIBIYAPUR,AURAIYA';
+UPDATE amazonsales
+SET ShipCity = 'BOKARO'
+WHERE ShipCity = 'DIST. BOKARO';
+UPDATE amazonsales
+SET ShipCity = 'BURDWAN'
+WHERE ShipCity = 'DISTRICT- BURDWAN';
+UPDATE amazonsales
+SET ShipCity = 'KAMAREDDY'
+WHERE ShipCity = 'DISTRICT KAMAREDDY';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'DISTRICT PUNE';
+UPDATE amazonsales
+SET ShipCity = 'ROHTAS'
+WHERE ShipCity = 'DIST-ROHTAS';
+UPDATE amazonsales
+SET ShipCity = 'MANDI'
+WHERE ShipCity = 'DISTT - MANDI';
+UPDATE amazonsales
+SET ShipCity = 'SHIMLA'
+WHERE ShipCity = 'DISTT.SHIMLA';
+UPDATE amazonsales
+SET ShipCity = 'TAPI'
+WHERE ShipCity = 'DI-TAPI';
+UPDATE amazonsales
+SET ShipCity = 'DOBBASPET'
+WHERE ShipCity = 'DOBASPET INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'DODDABALLAPURA'
+WHERE ShipCity = 'DOD BALLAPUR';
+UPDATE amazonsales
+SET ShipCity = 'DOGACHHIA'
+WHERE ShipCity = 'DOGACHHIA BARDDHAMAN DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVALI';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVALI  EAST';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVALI E';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVALI EAST';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVALI WEST';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVALI WEST - 421202';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVALLI';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVILI';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI (E)';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI (EAST), THANE';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI (W)';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI EAST';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI EAST THANE';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI EAST, DIST: THANE';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI WEST';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI(E)';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI(EAST)';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI-E';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBIVLI-EAST';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'DOMBVLI WEST';
+UPDATE amazonsales
+SET ShipCity = 'DHAVALESWARAM'
+WHERE ShipCity = 'DOWLESHWARAM... RAJAHMUNDRY (R)';
+UPDATE amazonsales
+SET ShipCity = 'DEHRADUN'
+WHERE ShipCity = 'DSTR-  DEHRADUN';
+UPDATE amazonsales
+SET ShipCity = 'PEDDA GUNDAVELLY'
+WHERE ShipCity = 'DUBBAK PEDDAGUNDAVELLI';
+UPDATE amazonsales
+SET ShipCity = 'DULIAJAN'
+WHERE ShipCity = 'DULIAJAN NO 1';
+UPDATE amazonsales
+SET ShipCity = 'DURG'
+WHERE ShipCity = 'DURG, BHILAI';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'EAST ARJUN NAGAR';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'EAST DELHI';
+UPDATE amazonsales
+SET ShipCity = 'SHILLONG'
+WHERE ShipCity = 'EAST KHASI HILLS';
+UPDATE amazonsales
+SET ShipCity = 'THURUPUVIPPARRU'
+WHERE ShipCity = 'EAST VIPPARRU';
+UPDATE amazonsales
+SET ShipCity = 'KOCHI'
+WHERE ShipCity = 'EDAPALLY';
+UPDATE amazonsales
+SET ShipCity = 'KOCHI'
+WHERE ShipCity = 'EDAPALLY NORTH PO';
+UPDATE amazonsales
+SET ShipCity = 'KOCHI'
+WHERE ShipCity = 'EDAPPAL';
+UPDATE amazonsales
+SET ShipCity = 'KOCHI'
+WHERE ShipCity = 'EDAPPALLY';
+UPDATE amazonsales
+SET ShipCity = 'KOCHI'
+WHERE ShipCity = 'EDAPPALLY, ERNAKULAM';
+UPDATE amazonsales
+SET ShipCity = 'EDULA MUSTOOR'
+WHERE ShipCity = 'EDULAMUSTOOR ,BATHALAPALLE';
+UPDATE amazonsales
+SET ShipCity = 'VARKALA'
+WHERE ShipCity = 'ELAKAMON, VARKALA';
+UPDATE amazonsales
+SET ShipCity = 'YENDADA'
+WHERE ShipCity = 'ENDADA/VISHAKA PATNAM';
+UPDATE amazonsales
+SET ShipCity = 'ERANHOLI'
+WHERE ShipCity = 'ERANHOLI, THALASSERY';
+UPDATE amazonsales
+SET ShipCity = 'ERATTUPETTA'
+WHERE ShipCity = 'ERATUPETTA,KOTTAYAM(DISTRICT)';
+UPDATE amazonsales
+SET ShipCity = 'KOLLAM'
+WHERE ShipCity = 'ERAVIPURAM,KOLLAM';
+UPDATE amazonsales
+SET ShipCity = 'ERNAKULAM'
+WHERE ShipCity = 'ERNAKULAM DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'ERNAKULAM'
+WHERE ShipCity = 'ERNAKULAM, KOLENCHERY';
+UPDATE amazonsales
+SET ShipCity = 'ERNAKULAM'
+WHERE ShipCity = 'ERNAKULAM.';
+UPDATE amazonsales
+SET ShipCity = 'FAIZABAD'
+WHERE ShipCity = 'FAIZABAD, AYODHYA';
+UPDATE amazonsales
+SET ShipCity = 'FARAKKA BARRAGE TOWNSHIP'
+WHERE ShipCity = 'FARAKKA PTS TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'FARIDABAD'
+WHERE ShipCity = 'FARIDABAD MY FIRST FLOOR';
+UPDATE amazonsales
+SET ShipCity = 'FARIDABAD'
+WHERE ShipCity = 'FARIDABAD-121004';
+UPDATE amazonsales
+SET ShipCity = 'TENSIL FATEHPUR'
+WHERE ShipCity = 'FATEHPUR BARA BANKI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'FATEHPUR'
+WHERE ShipCity = 'FATEHPUR FATEHPUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'FORT (MUMBAI)';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'GACHIBOWLI / HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'GADAG BETAGERI'
+WHERE ShipCity = 'GADAG';
+UPDATE amazonsales
+SET ShipCity = 'GADAG BETAGERI'
+WHERE ShipCity = 'GADAG BETIGERI';
+UPDATE amazonsales
+SET ShipCity = 'GADARWARA'
+WHERE ShipCity = 'GADARWARA NARSINGHPUR';
+UPDATE amazonsales
+SET ShipCity = 'GAMBHOI'
+WHERE ShipCity = 'GAMBHOI/HIMMATNAGAR';
+UPDATE amazonsales
+SET ShipCity = 'GARUGUBILLI'
+WHERE ShipCity = 'GARUGUBILLI MANDAL, VIZIANAGARAM DIST';
+UPDATE amazonsales
+SET ShipCity = 'GHAZIABAD'
+WHERE ShipCity = 'GAUR CITY 1';
+UPDATE amazonsales
+SET ShipCity = 'GAUTAM BUDDHA NAGAR'
+WHERE ShipCity = 'GAUTAM BUDDH NAGAR';
+UPDATE amazonsales
+SET ShipCity = 'GAUTAM BUDDHA NAGAR'
+WHERE ShipCity = 'GAUTAM BUDH NAGAR';
+UPDATE amazonsales
+SET ShipCity = 'GAUTAM BUDDHA NAGAR'
+WHERE ShipCity = 'GAUTAM BUDH NAGAR , NOIDA';
+UPDATE amazonsales
+SET ShipCity = 'GAUTAM BUDDHA NAGAR'
+WHERE ShipCity = 'GAUTAM BUDHA NAGAR';
+UPDATE amazonsales
+SET ShipCity = 'GHAZIABAD'
+WHERE ShipCity = 'GHAZIABAD,SAHIBABAD';
+UPDATE amazonsales
+SET ShipCity = 'PORT BLAIR'
+WHERE ShipCity = 'GOALGHAR PORT BLAIR';
+UPDATE amazonsales
+SET ShipCity = 'GOBINDPUR'
+WHERE ShipCity = 'GOBINDPUR DHANBAD';
+UPDATE amazonsales
+SET ShipCity = 'GOBINDPUR'
+WHERE ShipCity = 'GOBINDPUR,DHANBAD';
+UPDATE amazonsales
+SET ShipCity = 'GOKARNA'
+WHERE ShipCity = 'GOKARNA,KANDI, MURSHIDABAD';
+
+UPDATE amazonsales
+SET ShipCity = 'GOKUL SHIRGAON'
+WHERE ShipCity = 'GOKUL SHIRGAON MIDC';
+
+UPDATE amazonsales
+SET ShipCity = 'GOPPENAHALLI'
+WHERE ShipCity = 'GOPPENAHALLI, CHANNAGIRI TALUK, DAVANGERE DISTRICT';
+
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'GOREGAON - EAST, MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'GOREGAON EAST  MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'GOREGAON MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'GOREGAON WEST';
+UPDATE amazonsales
+SET ShipCity = 'GOTEGAON'
+WHERE ShipCity = 'GOTEGAON (DIST-NARSINGHPUR)';
+UPDATE amazonsales
+SET ShipCity = 'GREATER NOIDA'
+WHERE ShipCity = 'GREATER NOIDA (WEST)';
+UPDATE amazonsales
+SET ShipCity = 'GREATER NOIDA'
+WHERE ShipCity = 'GREATER NOIDA WEST ,GAUTAM BUDH NAGAR';
+UPDATE amazonsales
+SET ShipCity = 'GUDALUR'
+WHERE ShipCity = 'GUDALUR COIMBATORE DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'GUDIVADA'
+WHERE ShipCity = 'GUDIVADA KRISHNA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'GUNTUR'
+WHERE ShipCity = 'GUNTUR  DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'PONNUR'
+WHERE ShipCity = 'GUNTUR DIST PONNUR';
+UPDATE amazonsales
+SET ShipCity = 'GUNTUR'
+WHERE ShipCity = 'GUNTUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'GUNTUR'
+WHERE ShipCity = 'GUNTURGUNTUR';
+UPDATE amazonsales
+SET ShipCity = 'GURUGRAM'
+WHERE ShipCity = 'GURGAON,DELHI';
+UPDATE amazonsales
+SET ShipCity = 'GURUGRAM'
+WHERE ShipCity = 'GURGAON';
+UPDATE amazonsales
+SET ShipCity = 'GURUGRAM'
+WHERE ShipCity = 'GURUGRAM.';
+UPDATE amazonsales
+SET ShipCity = 'GURUGRAM'
+WHERE ShipCity = 'GURUGRAMGURGAON';
+UPDATE amazonsales
+SET ShipCity = 'GURUVAYUR'
+WHERE ShipCity = 'GURUVAYUR, THRISSUR';
+UPDATE amazonsales
+SET ShipCity = 'GUWAHATI'
+WHERE ShipCity = 'GUWAHATI, MALIGAON';
+UPDATE amazonsales
+SET ShipCity = 'GUWAHATI'
+WHERE ShipCity = 'GUWAHATI, NOONMATI';
+UPDATE amazonsales
+SET ShipCity = 'GUWAHATI'
+WHERE ShipCity = 'GUWAHATIGUWAHATI';
+UPDATE amazonsales
+SET ShipCity = 'KOVAYA'
+WHERE ShipCity = 'GWC TOWNSHIP KOVAYA';
+UPDATE amazonsales
+SET ShipCity = 'HABRA'
+WHERE ShipCity = 'HABRA, ASHOKENAGAR';
+
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'HADAPSAR, PUNE';
+UPDATE amazonsales
+SET ShipCity = 'HAJIPUR'
+WHERE ShipCity = 'HAJIPUR, VAISHALI';
+UPDATE amazonsales
+SET ShipCity = 'HALDAUR'
+WHERE ShipCity = 'HALDAUR DISTRICT BIJNOR';
+UPDATE amazonsales
+SET ShipCity = 'HALDIA'
+WHERE ShipCity = 'HALDIA, PURBA MEDINIPUR';
+UPDATE amazonsales
+SET ShipCity = 'HALDWANI'
+WHERE ShipCity = 'HALDWANI GOLAPAR';
+UPDATE amazonsales
+SET ShipCity = 'HALDWANI'
+WHERE ShipCity = 'HALDWANI. (DISTRICT: NAINITAL)';
+UPDATE amazonsales
+SET ShipCity = 'HALDWANI'
+WHERE ShipCity = 'HALDWANI DISTRICT NAINITAL';
+UPDATE amazonsales
+SET ShipCity = 'HANAMAKONDA'
+WHERE ShipCity = 'HANAMKOND, WARANGAL';
+UPDATE amazonsales
+SET ShipCity = 'HANAMAKONDA'
+WHERE ShipCity = 'HANAMKONDA';
+UPDATE amazonsales
+SET ShipCity = 'HANAMAKONDA'
+WHERE ShipCity = 'HANAMKONDA, WARANGAL URBAN';
+UPDATE amazonsales
+SET ShipCity = 'HANAMAKONDA'
+WHERE ShipCity = 'HANMAKONDA';
+UPDATE amazonsales
+SET ShipCity = 'HANUMANGARH'
+WHERE ShipCity = 'HANUMANGARH JUNCTION';
+UPDATE amazonsales
+SET ShipCity = 'HASSAN'
+WHERE ShipCity = 'HASSAN (AMAZON ARUN)';
+UPDATE amazonsales
+SET ShipCity = 'RENUKOOT'
+WHERE ShipCity = 'HINDALCO INDUSTRIES LTD';
+UPDATE amazonsales
+SET ShipCity = 'HOSHIARPUR'
+WHERE ShipCity = 'HOSHIARPUR-146111';
+
+UPDATE amazonsales
+SET ShipCity = 'HOSKOTE'
+WHERE ShipCity = 'HOSKOTE, BANGALORE';
+UPDATE amazonsales
+SET ShipCity = 'HOSUR'
+WHERE ShipCity = 'HOSUR / KRISHNAGIRI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'GURUGRAM'
+WHERE ShipCity = 'HSIIDC SOHNA';
+UPDATE amazonsales
+SET ShipCity = 'GURUGRAM'
+WHERE ShipCity = 'HSIIDC SOHNA, GURUGRAM';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'HYDERABAD (500034)';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'HYDERABAD .';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'HYDERABAD,';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'HYDERABAD, RANGA REDDY';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'HYDERABAD,RANGAREDDY';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'HYDERBAD';
+UPDATE amazonsales
+SET ShipCity = 'POLAVARAM'
+WHERE ShipCity = 'I POLAVARAM';
+UPDATE amazonsales
+SET ShipCity = 'ICHAPUR'
+WHERE ShipCity = 'ICHAPUR MANIKTALA';
+UPDATE amazonsales
+SET ShipCity = 'ICHAPUR'
+WHERE ShipCity = 'ICHHAPUR';
+UPDATE amazonsales
+SET ShipCity = 'SALEMPUR MAHDOOD'
+WHERE ShipCity = 'IIE INDUSTRIAL ESTATE TATASU MAZADI';
+UPDATE amazonsales
+SET ShipCity = 'ILAYANGUDI'
+WHERE ShipCity = 'ILAYANGUDI, SIVAGANGAI';
+UPDATE amazonsales
+SET ShipCity = 'IMPHAL'
+WHERE ShipCity = 'IMPHAL EAST';
+UPDATE amazonsales
+SET ShipCity = 'IMPHAL'
+WHERE ShipCity = 'IMPHAL WEST';
+UPDATE amazonsales
+SET ShipCity = 'GHAZIABAD'
+WHERE ShipCity = 'INDIRAPURAM, GHAZIABAD';
+UPDATE amazonsales
+SET ShipCity = 'DEVAKATHIKOPPA'
+WHERE ShipCity = 'INDUSTRIAL AREA DEVAKATHIKOPPA AND SIDLIPURA';
+UPDATE amazonsales
+SET ShipCity = 'MENAKURU'
+WHERE ShipCity = 'INDUSTRIAL PARK NAIDUPET';
+UPDATE amazonsales
+SET ShipCity = 'BIDHUNA'
+WHERE ShipCity = 'INFRONT OF POWER HOUSE BIDHUNA';
+UPDATE amazonsales
+SET ShipCity = 'ITHEPALLI'
+WHERE ShipCity = 'ITHEPALLI, CHANDRAGIRI';
+UPDATE amazonsales
+SET ShipCity = 'ITHEPALLI'
+WHERE ShipCity = 'ITHEPALLI(V), CHANDRAGIRI(M), CHITTOOR(D),';
+UPDATE amazonsales
+SET ShipCity = 'JAGATSINGHAPUR'
+WHERE ShipCity = 'JAGASINGHPUR';
+UPDATE amazonsales
+SET ShipCity = 'JAKHORA'
+WHERE ShipCity = 'JAKHAURA TALBEHAT';
+UPDATE amazonsales
+SET ShipCity = 'JALALABAD'
+WHERE ShipCity = 'JALALABAD MUZAFFARNAGAR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'JALALABAD'
+WHERE ShipCity = 'JALALABAD SHAHJAHANPUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'JALALABAD'
+WHERE ShipCity = 'JALALABAD SHAMLI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'JALANDHAR'
+WHERE ShipCity = 'JALANDHA';
+UPDATE amazonsales
+SET ShipCity = 'JALANDHAR'
+WHERE ShipCity = 'JALANDHAR CANT';
+UPDATE amazonsales
+SET ShipCity = 'JAMMU'
+WHERE ShipCity = 'JAMMU, VIJAYPUR';
+UPDATE amazonsales
+SET ShipCity = 'JAMMU'
+WHERE ShipCity = 'JAMMU AND KADHMIR';
+UPDATE amazonsales
+SET ShipCity = 'JANDIALA'
+WHERE ShipCity = 'JANDIALA AMRITSAR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'JATANI'
+WHERE ShipCity = 'JATANI, BHUBANESWAR';
+UPDATE amazonsales
+SET ShipCity = 'JATTARI'
+WHERE ShipCity = 'JATARI';
+UPDATE amazonsales
+SET ShipCity = 'JAUNPUR'
+WHERE ShipCity = 'JAUNPURJAUNPUR';
+UPDATE amazonsales
+SET ShipCity = 'JETPUR'
+WHERE ShipCity = 'JETPUR NAVAGADH';
+UPDATE amazonsales
+SET ShipCity = 'JETPUR'
+WHERE ShipCity = 'JETPUR GUJARAT';
+UPDATE amazonsales
+SET ShipCity = 'JHAGADIYA'
+WHERE ShipCity = 'JHAGADIYA INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'JHANSI'
+WHERE ShipCity = 'JHANSI CANTT';
+UPDATE amazonsales
+SET ShipCity = 'JHARIA'
+WHERE ShipCity = 'JHARIA KHAS';
+UPDATE amazonsales
+SET ShipCity = 'MEERPET'
+WHERE ShipCity = 'JILLELGUDA , MEERPET , HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'MEERPET'
+WHERE ShipCity = 'JILLELAGUDA';
+UPDATE amazonsales
+SET ShipCity = 'PUDUCHERRY'
+WHERE ShipCity = 'JIPMER QUARTERS,GORIMEDU';
+UPDATE amazonsales
+SET ShipCity = 'OSIAN'
+WHERE ShipCity = 'JODHPUR,OSIAN';
+UPDATE amazonsales
+SET ShipCity = 'JOGULAMBA GADWAL'
+WHERE ShipCity = 'JOGULAMBA GADWAL DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'JOSHI ROAD KAROL BAGH NEW DELHI';
+UPDATE amazonsales
+SET ShipCity = 'JSPL TOWN ANUGUL'
+WHERE ShipCity = 'JSPL TOWN ANUGUL TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'TORANAGALLU'
+WHERE ShipCity = 'JSW STEEL PLANT TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'KADRI'
+WHERE ShipCity = 'KADRI, MANGALURU, DAKSHINA KANNADA (D)';
+UPDATE amazonsales
+SET ShipCity = 'KAHNUWAN'
+WHERE ShipCity = 'KAHNUWAN (GURDASPUR)';
+UPDATE amazonsales
+SET ShipCity = 'KAKINADA'
+WHERE ShipCity = 'KAKINADA (URBAN)';
+UPDATE amazonsales
+SET ShipCity = 'KAKKANAD'
+WHERE ShipCity = 'KAKKANAD, KOCHI';
+UPDATE amazonsales
+SET ShipCity = 'KAKKANAD'
+WHERE ShipCity = 'KAKKANAD,ERNAKULAM';
+UPDATE amazonsales
+SET ShipCity = 'KAKKANAD'
+WHERE ShipCity = 'KAKKANADU.ERNAKULAM';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'KALACHOWKI MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'KALADHUNGI'
+WHERE ShipCity = 'KALADHUNGI HALDWANI';
+UPDATE amazonsales
+SET ShipCity = 'KALADHUNGI'
+WHERE ShipCity = 'KALADHUNGI ROAD,P.O- KATGHARIA ,HALDWANI';
+UPDATE amazonsales
+SET ShipCity = 'KALAMASSERY'
+WHERE ShipCity = 'KALAMASSERY PH NO: 9074200347';
+UPDATE amazonsales
+SET ShipCity = 'KALAMASSERY'
+WHERE ShipCity = 'KALAMASSERYCOCHIN';
+UPDATE amazonsales
+SET ShipCity = 'KRISHNAN KOVIL'
+WHERE ShipCity = 'KALASALINGAM UNIVERSITY';
+
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'KALEWADI,PUNE';
+UPDATE amazonsales
+SET ShipCity = 'KALIACHAK'
+WHERE ShipCity = 'KALIACHAK ; GOLAPGONJ';
+UPDATE amazonsales
+SET ShipCity = 'KALINGA NAGAR'
+WHERE ShipCity = 'KALINGA NAGAR INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'KALLARA'
+WHERE ShipCity = 'KALLARA/ KOTTAYAM';
+UPDATE amazonsales
+SET ShipCity = 'KALLUR'
+WHERE ShipCity = 'KALLUR- THRISSUR';
+UPDATE amazonsales
+SET ShipCity = 'KALLUR'
+WHERE ShipCity = 'KALLUR,KHAMMAM DIST';
+UPDATE amazonsales
+SET ShipCity = 'KALOL'
+WHERE ShipCity = 'KALOL GANDHINAGAR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KALOL'
+WHERE ShipCity = 'KALOL PANCH MAHALS DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KALPETTA'
+WHERE ShipCity = 'KALPETTA WAYANAD';
+UPDATE amazonsales
+SET ShipCity = 'KALWA'
+WHERE ShipCity = 'KALWA-THANE';
+UPDATE amazonsales
+SET ShipCity = 'KALYAN'
+WHERE ShipCity = 'KALYAN - WEST, THANE';
+UPDATE amazonsales
+SET ShipCity = 'KALYAN'
+WHERE ShipCity = 'KALYAN (EAST)';
+UPDATE amazonsales
+SET ShipCity = 'KALYAN'
+WHERE ShipCity = 'KALYAN EAST';
+UPDATE amazonsales
+SET ShipCity = 'KALYAN'
+WHERE ShipCity = 'KALYAN WEST';
+UPDATE amazonsales
+SET ShipCity = 'KALYAN'
+WHERE ShipCity = 'KALYAN, THANE';
+UPDATE amazonsales
+SET ShipCity = 'KALYAN'
+WHERE ShipCity = 'KALYAN-DOMBIVLI';
+UPDATE amazonsales
+SET ShipCity = 'KAMATCHIPURAM'
+WHERE ShipCity = 'KAMATCHIPURAM, THENI';
+UPDATE amazonsales
+SET ShipCity = 'KANCHIPURAM'
+WHERE ShipCity = 'KANCHIPURAM DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KANDANAD'
+WHERE ShipCity = 'KANDANADU PO, ERNAKULAM';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'KANDIVALI (E), MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'KANDIVALI (W)';
+UPDATE amazonsales
+SET ShipCity = 'NOWGAM'
+WHERE ShipCity = 'KANIPORA,NOWGAM SRINAGAR';
+UPDATE amazonsales
+SET ShipCity = 'THIRUVANANTHAPURAM'
+WHERE ShipCity = 'KANIYAPURAM, THIRUVANANTHAPURAM DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KANJIKODE'
+WHERE ShipCity = 'KANJIKODE INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'KANNIYAKUMARI'
+WHERE ShipCity = 'KANNIYAKUMARI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KANPUR'
+WHERE ShipCity = 'KANPUR NAGAR';
+UPDATE amazonsales
+SET ShipCity = 'KANPUR'
+WHERE ShipCity = 'KANPURKANPUR';
+UPDATE amazonsales
+SET ShipCity = 'KANTH'
+WHERE ShipCity = 'KANTH MORADABAD DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KANNIYAKUMARI'
+WHERE ShipCity = 'KANYAKUMARI';
+UPDATE amazonsales
+SET ShipCity = 'KAPIKAD'
+WHERE ShipCity = 'KAPIKAD KINNIGOLI';
+UPDATE amazonsales
+SET ShipCity = 'KARAMSAD'
+WHERE ShipCity = 'KARAMSAD - ANAND';
+UPDATE amazonsales
+SET ShipCity = 'KARAMSAD'
+WHERE ShipCity = 'KARAMSAD ANAND';
+UPDATE amazonsales
+SET ShipCity = 'KARIMNAGAR'
+WHERE ShipCity = 'KARIMNAGAR,';
+UPDATE amazonsales
+SET ShipCity = 'KARJAT'
+WHERE ShipCity = 'KARJAT RAIGARH DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KARKALA'
+WHERE ShipCity = 'KARKALA TALUK';
+UPDATE amazonsales
+SET ShipCity = 'KARUKACHAL'
+WHERE ShipCity = 'KARUKACHAL, KOTTAYAM';
+UPDATE amazonsales
+SET ShipCity = 'KATIYA'
+WHERE ShipCity = 'KATAIYA GOPALGANJ';
+UPDATE amazonsales
+SET ShipCity = 'KATIYA'
+WHERE ShipCity = 'KATAIYA';
+UPDATE amazonsales
+SET ShipCity = 'BHUPALAPALLY'
+WHERE ShipCity = 'KATARAM, JAYASHANKAR BHUPALAPALLY DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'HALDWANI'
+WHERE ShipCity = 'KATHGHARIYA, HALDWANI';
+UPDATE amazonsales
+SET ShipCity = 'KATRA'
+WHERE ShipCity = 'KATRA SHAHJAHANPUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KATTANAM'
+WHERE ShipCity = 'KATTANAM  , ALLEPY';
+UPDATE amazonsales
+SET ShipCity = 'KAVALI'
+WHERE ShipCity = 'KAVALI INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'KAZHAKOOTTAM'
+WHERE ShipCity = 'KAZHAKOOTTAM THIRUVANANTHAPURAM DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'VIJAYAWADA'
+WHERE ShipCity = 'KEDARESWARA PET ,  VIJAYAWADA';
+UPDATE amazonsales
+SET ShipCity = 'KESHORAIPATAN'
+WHERE ShipCity = 'KESHORAI PATAN DISTRICT BUNDI';
+UPDATE amazonsales
+SET ShipCity = 'KHAIRABAD'
+WHERE ShipCity = 'KHAIRABAD MAU DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KHARAGPUR'
+WHERE ShipCity = 'KHARAGPUR, PASCHIM MIDNAPUR';
+UPDATE amazonsales
+SET ShipCity = 'KHARAGPUR'
+WHERE ShipCity = 'KHARAGPUR, WEST BENGAL';
+UPDATE amazonsales
+SET ShipCity = 'KHARAR'
+WHERE ShipCity = 'KHARAR, MOHALI';
+UPDATE amazonsales
+SET ShipCity = 'KHARDAHA'
+WHERE ShipCity = 'KHARDAH';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'KHARGHAR';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'KHARGHAR, NAVI MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'KHETRI NAGAR'
+WHERE ShipCity = 'KHETRI NAGAR JHUNJHUNU';
+UPDATE amazonsales
+SET ShipCity = 'BHUBANESWAR'
+WHERE ShipCity = 'KHURDA,BHUBANESWAR';
+UPDATE amazonsales
+SET ShipCity = 'KHURJA'
+WHERE ShipCity = 'KHURJA(BULANDSHAR)';
+UPDATE amazonsales
+SET ShipCity = 'KHIDIRPUR'
+WHERE ShipCity = 'KIDDERPORE, KOLKATA,';
+UPDATE amazonsales
+SET ShipCity = 'KINNIGOLI'
+WHERE ShipCity = 'KINNIGOLI POST TALIPADY';
+UPDATE amazonsales
+SET ShipCity = 'KINNIGOLI'
+WHERE ShipCity = 'KINNIGOLI,MANGLURU';
+UPDATE amazonsales
+SET ShipCity = 'KIRNAHAR'
+WHERE ShipCity = 'KIRNAHAR , BIRBHUM';
+UPDATE amazonsales
+SET ShipCity = 'KISHANGARH'
+WHERE ShipCity = 'KISHANGARH (AJMER)';
+UPDATE amazonsales
+SET ShipCity = 'KISHANGARH'
+WHERE ShipCity = 'KISHANGARH AJMER DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KOLAR GOLD FIELD'
+WHERE ShipCity = 'KOLAR GOLD FIELD - KGF';
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'KOLKATA  39';
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'KOLKATA 700029';
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'KOLKATA- 700031';
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'KOLKATA 700034';
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'KOLKATA 700036';
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'KOLKATA 700039';
+
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'KOLKATA 700104';
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'KOLKATA, BAGUIATI';
+UPDATE amazonsales
+SET ShipCity = 'KOLKATA'
+WHERE ShipCity = 'KOLKATAL';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'KOMPALLY , HYD';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'KOMPALLY';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'KONDAPUR, HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'KONDHWA KHURD 48 .PUNE  411048';
+UPDATE amazonsales
+SET ShipCity = 'KOSI KALAN'
+WHERE ShipCity = 'KOSI KALAN , MATHURA';
+UPDATE amazonsales
+SET ShipCity = 'KOTHRI'
+WHERE ShipCity = 'KOTHRI, SEHORE';
+UPDATE amazonsales
+SET ShipCity = 'RAIGARH'
+WHERE ShipCity = 'KOTRA ROAD ,RAIGARH';
+UPDATE amazonsales
+SET ShipCity = 'KANNIYAKUMARI'
+WHERE ShipCity = 'KOTTARAM, KANYAKUMARI';
+UPDATE amazonsales
+SET ShipCity = 'KOTTAYAM'
+WHERE ShipCity = 'KOTTAYAM DIST';
+UPDATE amazonsales
+SET ShipCity = 'KOTTAYAM'
+WHERE ShipCity = 'KOTTAYAM DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'KOTTAYAMPOYIL'
+WHERE ShipCity = 'KOTTAYAMPOYIL/THALASSERY';
+UPDATE amazonsales
+SET ShipCity = 'KOYILANDY'
+WHERE ShipCity = 'KOYILANDY, KOZHIKODE';
+UPDATE amazonsales
+SET ShipCity = 'KOVVUR'
+WHERE ShipCity = 'KOVVURU';
+UPDATE amazonsales
+SET ShipCity = 'KOZHENCHERY'
+WHERE ShipCity = 'KOZHENCHERY, PATHANAMTHITTA';
+UPDATE amazonsales
+SET ShipCity = 'KOZHIPPILLY'
+WHERE ShipCity = 'KOZHIPPILLY PARASHALAPPADY';
+UPDATE amazonsales
+SET ShipCity = 'KRISHNAPUR'
+WHERE ShipCity = 'KRISHNAPUR HUGLI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'HONGAHALLI'
+WHERE ShipCity = 'KRISHNARAJA SAGARA';
+UPDATE amazonsales
+SET ShipCity = 'KRISHNARAJPET'
+WHERE ShipCity = 'KRISHNARAJPET, KRISHNARAJPET TQ.,MANDYA DIST.';
+UPDATE amazonsales
+SET ShipCity = 'KUNDA'
+WHERE ShipCity = 'KUNDA; PRATAPGARH';
+UPDATE amazonsales
+SET ShipCity = 'KUNDLI'
+WHERE ShipCity = 'KUNDLI INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'KURNOOL'
+WHERE ShipCity = 'KURNOOL, INDIA';
+UPDATE amazonsales
+SET ShipCity = 'KURSEONG'
+WHERE ShipCity = 'KURSEONG -734204';
+UPDATE amazonsales
+SET ShipCity = 'KURUPPAMPADY'
+WHERE ShipCity = 'KURUPPAPADY (VIA)';
+UPDATE amazonsales
+SET ShipCity = 'KUTTIPPURAM'
+WHERE ShipCity = 'KUTTIPURAM MALAPPURAM DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'LADWA'
+WHERE ShipCity = 'LADWA STATE- KURUKSHETRA';
+UPDATE amazonsales
+SET ShipCity = 'LAKHIPUR'
+WHERE ShipCity = 'LAKHIPUR CACHAR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'LAKHIPUR'
+WHERE ShipCity = 'LAKHIPUR GOALPARA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'LAXMI NAGAR NEW DELHI';
+UPDATE amazonsales
+SET ShipCity = 'LEH'
+WHERE ShipCity = 'LEH, ALT NO 9419844047';
+UPDATE amazonsales
+SET ShipCity = 'ATTINGAL'
+WHERE ShipCity = 'LMS JUNCTION,ATTINGAL,TRIVANDRUM';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'LOHGAON PUNE';
+UPDATE amazonsales
+SET ShipCity = 'LONAVALA'
+WHERE ShipCity = 'LONAVLA';
+UPDATE amazonsales
+SET ShipCity = 'GHAZIABAD'
+WHERE ShipCity = 'LONI, GHAZIABAD';
+UPDATE amazonsales
+SET ShipCity = 'LUCKNOW'
+WHERE ShipCity = 'LUCKNOWLUCKNOW';
+UPDATE amazonsales
+SET ShipCity = 'LUDHIANA'
+WHERE ShipCity = 'LUDHIANA PUNJAB INDIA';
+UPDATE amazonsales
+SET ShipCity = 'LUDHIANA'
+WHERE ShipCity = 'LUDHIANA, PUNJAB (INDIA)';
+UPDATE amazonsales
+SET ShipCity = 'LUDHIANA'
+WHERE ShipCity = 'LUDHIANALUDHIANA';
+UPDATE amazonsales
+SET ShipCity = 'MACHHALI SHAHAR'
+WHERE ShipCity = 'MACHHALI SHAHAR JAUNPUR';
+UPDATE amazonsales
+SET ShipCity = 'MACHHALI SHAHAR'
+WHERE ShipCity = 'MACHHLISHAHR';
+UPDATE amazonsales
+SET ShipCity = 'MADANAPALLE'
+WHERE ShipCity = 'MADANAPALLE, CHITTOOR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'MADANAPALLE'
+WHERE ShipCity = 'MADANAPALLI';
+UPDATE amazonsales
+SET ShipCity = 'MADANAPALLE'
+WHERE ShipCity = 'MADANAPALLI CHITTOOR';
+UPDATE amazonsales
+SET ShipCity = 'KISHANGARH'
+WHERE ShipCity = 'MADANGANJ-KISHANGARH  AJMER';
+UPDATE amazonsales
+SET ShipCity = 'MADATHUKULAM'
+WHERE ShipCity = 'MADATHUKULAM PO';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'MADHAPUR, HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'KANPUR'
+WHERE ShipCity = 'MADHU VIHAR, LUCKNOW KANPUR HIGHWAY';
+UPDATE amazonsales
+SET ShipCity = 'MADHUBANI'
+WHERE ShipCity = 'MADHUBAN';
+UPDATE amazonsales
+SET ShipCity = 'MADIKERI'
+WHERE ShipCity = 'MADIKERI, COORG';
+UPDATE amazonsales
+SET ShipCity = 'MADIKERI'
+WHERE ShipCity = 'MADIKERI,KODAGU.';
+UPDATE amazonsales
+SET ShipCity = 'MADURAI'
+WHERE ShipCity = 'MADURAI- 625004';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'MADURAVOYAL,CHENNAI';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'MADUVANKARAI/CHENNAI';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'MAGARPATTA CITY, PUNE';
+UPDATE amazonsales
+SET ShipCity = 'NADGAON TARF BIRWADI'
+WHERE ShipCity = 'MAHAD MIDC';
+UPDATE amazonsales
+SET ShipCity = 'MAHAD'
+WHERE ShipCity = 'MAHAD, RAIGAD';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'MAHAVIR ENCLAVE,DELHI';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'MAHADEVAPURA, BANGALORE';
+UPDATE amazonsales
+SET ShipCity = 'MAHENDRAGARH'
+WHERE ShipCity = 'MAHENDRAGARH DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'MAHESHWARAM'
+WHERE ShipCity = 'MAHESWARAM MANDAL';
+UPDATE amazonsales
+SET ShipCity = 'THIRUTHERI R.F'
+WHERE ShipCity = 'MAHINDRA WORLD CITY';
+
+UPDATE amazonsales
+SET ShipCity = 'MAJGAON'
+WHERE ShipCity = 'MAJGAO SAWANTWADI';
+UPDATE amazonsales
+SET ShipCity = 'MAJITHA'
+WHERE ShipCity = 'MAJITHA(AMRITSAR)';
+UPDATE amazonsales
+SET ShipCity = 'UTTARPARA'
+WHERE ShipCity = 'MAKHLA, UTTARPARA, HOOGHLY';
+UPDATE amazonsales
+SET ShipCity = 'MAKKADA'
+WHERE ShipCity = 'MAKKADA,KOZHIKODE';
+UPDATE amazonsales
+SET ShipCity = 'SAGAR'
+WHERE ShipCity = 'MAKRONIA BUZURG';
+UPDATE amazonsales
+SET ShipCity = 'MALAPPURAM'
+WHERE ShipCity = 'MALAPPURAM DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'MALAPPURAM'
+WHERE ShipCity = 'MALAPURAM';
+UPDATE amazonsales
+SET ShipCity = 'MALKAPUR'
+WHERE ShipCity = 'MALKAPUR BULDANA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'MALKAPUR'
+WHERE ShipCity = 'MALKAPUR DIST: BULDHANA';
+UPDATE amazonsales
+SET ShipCity = 'MALKAPUR'
+WHERE ShipCity = 'MALKAPUR MIDC';
+UPDATE amazonsales
+SET ShipCity = 'MODASA'
+WHERE ShipCity = 'MALPUR ROAD, MODASA';
+UPDATE amazonsales
+SET ShipCity = 'MALUR'
+WHERE ShipCity = 'MALUR INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'MALVAN'
+WHERE ShipCity = 'MALVANI';
+UPDATE amazonsales
+SET ShipCity = 'MALVAN'
+WHERE ShipCity = 'MALWAN';
+UPDATE amazonsales
+SET ShipCity = 'MANDHAR'
+WHERE ShipCity = 'MANDHAR INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'MANDI GOBINDGARH'
+WHERE ShipCity = 'MANDI GOVINDGARH';
+UPDATE amazonsales
+SET ShipCity = 'MANDI'
+WHERE ShipCity = 'MANDI,';
+UPDATE amazonsales
+SET ShipCity = 'MANDYA'
+WHERE ShipCity = 'MANDYA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'TIRUPATI'
+WHERE ShipCity = 'MANGALAM, TIRUPATI';
+UPDATE amazonsales
+SET ShipCity = 'MANGALURU'
+WHERE ShipCity = 'MANGALORE';
+UPDATE amazonsales
+SET ShipCity = 'MANGALURU'
+WHERE ShipCity = 'MANGALURU 575008';
+UPDATE amazonsales
+SET ShipCity = 'MANIPUZHA'
+WHERE ShipCity = 'MANIPUZHA KOTTAYAM';
+UPDATE amazonsales
+SET ShipCity = 'MANNARKKAD'
+WHERE ShipCity = 'MANNARKAD I';
+UPDATE amazonsales
+SET ShipCity = 'MANNARKKAD'
+WHERE ShipCity = 'MANNARKAD';
+UPDATE amazonsales
+SET ShipCity = 'GAYA'
+WHERE ShipCity = 'MANPUR ABGILLA DEVI ASTHAN';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'MARATHAHALLI,BENGALORE.';
+UPDATE amazonsales
+SET ShipCity = 'HOSUR'
+WHERE ShipCity = 'MATHIGIRI HOSUR';
+UPDATE amazonsales
+SET ShipCity = 'HOSUR'
+WHERE ShipCity = 'MATHIGIRI';
+UPDATE amazonsales
+SET ShipCity = 'MATHURA'
+WHERE ShipCity = 'MATHURA, VRINDAVAN';
+UPDATE amazonsales
+SET ShipCity = 'MAWANA'
+WHERE ShipCity = 'MAWANA MEERUT';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'MAYUR VIHAR-3';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'MEDIPALLY ,HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'MEERUT'
+WHERE ShipCity = 'MEERUT CANTT';
+UPDATE amazonsales
+SET ShipCity = 'MEHAM'
+WHERE ShipCity = 'MEHAM DISTT. ROHTAK';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'MEHDIPATNAM, HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'MEMARI'
+WHERE ShipCity = 'MEMARI; MAHESHPUR PRIMARY SCHOOL';
+UPDATE amazonsales
+SET ShipCity = 'MHOW GAON'
+WHERE ShipCity = 'MHOW';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'MIRA ROAD';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'MIRA ROAD EAST';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'MIRA ROAD EAST THANE';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'MIRA ROAD EAST, MUMBAI 401107';
+UPDATE amazonsales
+SET ShipCity = 'MIRZAPUR'
+WHERE ShipCity = 'MIRZAPUR CHITAVANPUR';
+UPDATE amazonsales
+SET ShipCity = 'MIRZAPUR'
+WHERE ShipCity = 'MIRZAPUR CUM VINDHYACHAL';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'MIYAPUR';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'MIYAPUR, HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'MMBAI';
+UPDATE amazonsales
+SET ShipCity = 'MUNGRA BADSHAHPUR'
+WHERE ShipCity = 'MOGRA BADSHAHPUR, JAUNPUR';
+UPDATE amazonsales
+SET ShipCity = 'MOHADI'
+WHERE ShipCity = 'MOHADI MIDC';
+UPDATE amazonsales
+SET ShipCity = 'ZIRAKPUR'
+WHERE ShipCity = 'MOHALI ZIRAKPUR';
+UPDATE amazonsales
+SET ShipCity = 'MOHAMMADABAD'
+WHERE ShipCity = 'MOHAMMADABAD FARRUKHABAD DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'DHARAMSHALA'
+WHERE ShipCity = 'MOHLI, DHARAMSHALA';
+UPDATE amazonsales
+SET ShipCity = 'NAYANPUR'
+WHERE ShipCity = 'MONDH , BHADOHI';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'MOSHI PRADHIKARAN';
+UPDATE amazonsales
+SET ShipCity = 'MUDHOL'
+WHERE ShipCity = 'MUDHOLE';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'MUDICHUR,CHENNAI';
+UPDATE amazonsales
+SET ShipCity = 'MUGHALSARAI'
+WHERE ShipCity = 'MUGHAL SARAI';
+UPDATE amazonsales
+SET ShipCity = 'MUKHATHALA'
+WHERE ShipCity = 'MUKHATHALA, KOLLAM';
+UPDATE amazonsales
+SET ShipCity = 'MULAKALAPALLE'
+WHERE ShipCity = 'MULAKALAPALLY MANDL';
+UPDATE amazonsales
+SET ShipCity = 'MULKI'
+WHERE ShipCity = 'MULKY';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity IN ('MULUND W','MULUND, EAST MUMBAI','MUMB','MUMBA','MUMBAI - 400062','MUMBAI (E)','MUMBAI -13',
+
+'MUMBAI 400023','MUMBAI 400030','MUMBAI 400050','MUMBAI 400057','MUMBAI 400063','MUMBAI -400064','MUMBAI 400070',
+'MUMBAI 400071','MUMBAI 40064',
+'MUMBAI DADAR  WEST','MUMBAI NO. 400053','MUMBAI,','MUMBAI,  ANDHERI WEST','MUMBAI, MULUND (W)',
+'MUMBAI.','MUMBAI-400064','MUMBAIMUMBAI');
+UPDATE amazonsales
+SET ShipCity = 'HULIGI'
+WHERE ShipCity = 'MUNIRABAD PROJECT AREA';
+UPDATE amazonsales
+SET ShipCity = 'SANKARI'
+WHERE ShipCity = 'MUNIYAPPAN KOVIL';
+UPDATE amazonsales
+SET ShipCity = 'MURARAI'
+WHERE ShipCity = 'MURARAI,BIRBHUM';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'MURUGESHPALYA BANGALORE';
+UPDATE amazonsales
+SET ShipCity = 'MYSURU'
+WHERE ShipCity = 'MYSORE';
+UPDATE amazonsales
+SET ShipCity = 'MYSURU'
+WHERE ShipCity = 'MYSORE DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'DIMAPUR'
+WHERE ShipCity = 'N L ROAD, DIMAPUR';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'N.DELHI';
+UPDATE amazonsales
+SET ShipCity = 'THRISSUR'
+WHERE ShipCity = 'NADATHARA, THRISSUR';
+UPDATE amazonsales
+SET ShipCity = 'NADUVANNUR'
+WHERE ShipCity = 'NADUVANNUR  KOZHIKODE (DISTRICT )BALUSSERY(TOWN)';
+UPDATE amazonsales
+SET ShipCity = 'VEMBADITHALAM'
+WHERE ShipCity = 'NADUVANERI';
+
+UPDATE amazonsales
+SET ShipCity = 'NAGAON'
+WHERE ShipCity = 'NAGAON , NORTH HAIBOURGAON';
+UPDATE amazonsales
+SET ShipCity = 'NAGPUR'
+WHERE ShipCity = 'NAGPUR.';
+UPDATE amazonsales
+SET ShipCity = 'NAGROTA BAGWAN'
+WHERE ShipCity = 'NAGROTA';
+UPDATE amazonsales
+SET ShipCity = 'NAIDUPETA'
+WHERE ShipCity = 'NAIDUPET-NELLORE DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'VASAI-VIRAR'
+WHERE ShipCity IN ('NAIGAON EAST','NAIGOAN','NAIGOAN EAST');
+UPDATE amazonsales
+SET ShipCity = 'PRAYAGRAJ'
+WHERE ShipCity = 'NAINI INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'NALA SOPARA'
+WHERE ShipCity = 'NALASOPARA EAST';
+UPDATE amazonsales
+SET ShipCity = 'NALA SOPARA'
+WHERE ShipCity = 'NALASOPARA,PALGHAR';
+UPDATE amazonsales
+SET ShipCity = 'GUNTUR'
+WHERE ShipCity = 'NALLAPADU';
+UPDATE amazonsales
+SET ShipCity = 'GUNTUR'
+WHERE ShipCity = 'NALLAPADU, GUNTUR';
+UPDATE amazonsales
+SET ShipCity = 'NALA SOPARA'
+WHERE ShipCity IN ('NALLASOPARA','NALLASOPARA (EAST)','NALLASOPARA EAST',
+'NALLASOPARA WEST','NALLASOPARA(WEST)');
+UPDATE amazonsales
+SET ShipCity = 'NALLEPILLY'
+WHERE ShipCity = 'NALLEPILLY P.O , PALAKKAD DT';
+UPDATE amazonsales
+SET ShipCity = 'NALLUR'
+WHERE ShipCity = 'NALLUR KANNIYAKUMARI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'MUNDRA'
+WHERE ShipCity = 'NANA KAPAYA, MUNDRA';
+UPDATE amazonsales
+SET ShipCity = 'NANDED'
+WHERE ShipCity = 'NANDED MAHARASHTRA';
+UPDATE amazonsales
+SET ShipCity = 'NANDED'
+WHERE ShipCity = 'NANDED WAGHALA';
+UPDATE amazonsales
+SET ShipCity = 'NANDGAONPETH'
+WHERE ShipCity = 'NANDGAONPETH MIDC';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'NANDIVARAM GUDUVANCHERI';
+UPDATE amazonsales
+SET ShipCity = 'NANDURBAR'
+WHERE ShipCity = 'NANDURBAR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'NANNAMBRA'
+WHERE ShipCity = 'NANNAMBRA,( PO)';
+UPDATE amazonsales
+SET ShipCity = 'NARASAPUR'
+WHERE ShipCity = 'NARASAPUR MANDAL';
+UPDATE amazonsales
+SET ShipCity = 'NARASARAOPETA'
+WHERE ShipCity = 'NARASARAOPET';
+UPDATE amazonsales
+SET ShipCity = 'NARASARAOPETA'
+WHERE ShipCity = 'NARASARAOPET,GUNTUR DESTRICT';
+UPDATE amazonsales
+SET ShipCity = 'NARASINGAPURAM'
+WHERE ShipCity = 'NARASINGAPURAM VELLORE DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'NARELA';
+UPDATE amazonsales
+SET ShipCity = 'NASHIK'
+WHERE ShipCity = 'NASHIK 422003';
+UPDATE amazonsales
+SET ShipCity = 'NASHIK'
+WHERE ShipCity = 'NASIK';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity IN ('NAVI MUMBAI 410218','NAVI MUMBAI,','NAVI MUMBAI, VILLAGE,JASKHAR URAN RAIGAD','NAVI MUMBAI,THANE');
+UPDATE amazonsales
+SET ShipCity = 'SHIMOGA'
+WHERE ShipCity IN ('NAVILE , SHIVAMOGGA','SHIVAMOGGA');
+UPDATE amazonsales
+SET ShipCity = 'NAYAGAON'
+WHERE ShipCity = 'NAYA GAON';
+UPDATE amazonsales
+SET ShipCity = 'GURUGRAM'
+WHERE ShipCity = 'NEAR BPTP ASTAIRE GARDEN/M3M ESCALA';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'NEAR NAHUR RAILWAY STATION NAHUR  EAST MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'NEAR SHAUCHALEY';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'NEAR VIGHNAHARTA GANESH MANDIR';
+UPDATE amazonsales
+SET ShipCity = 'NEEM KA THANA'
+WHERE ShipCity = 'NEEMKATHANA SIKAR';
+UPDATE amazonsales
+SET ShipCity = 'NELLORE'
+WHERE ShipCity = 'NELLORE(DT)';
+UPDATE amazonsales
+SET ShipCity = 'NERAL'
+WHERE ShipCity = 'NERAL EAST, KARJAT RAIGAD';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'NERUL NAVI MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'NERUL, NAVI MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'NEW CHENNAI';
+UPDATE amazonsales
+SET ShipCity = 'NEW DELHI'
+WHERE ShipCity IN ('NEW DELHI 110016','NEW DELHI 110045','NEW DELHI 110059','NEW DELHI.53',
+
+'NEW DELHI-110008','NEW DELHI-110075','NEW DELHIDELHI','NEW DELHIHBJO','NEW DELHII');
+UPDATE amazonsales
+SET ShipCity = 'GUWAHATI'
+WHERE ShipCity = 'NEW GUWAHATI TINIALI';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'NEW MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'NEW PANVEL';
+UPDATE amazonsales
+SET ShipCity = 'NAVI RAIPUR'
+WHERE ShipCity = 'NEW RAIPUR';
+UPDATE amazonsales
+SET ShipCity = 'DOMBIVLI'
+WHERE ShipCity = 'NEW THAKURLI';
+UPDATE amazonsales
+SET ShipCity = 'NEW TOWN'
+WHERE ShipCity IN ('NEW TOWN - KOLKATA','NEW TOWN , KOLKATA','NEW TOWN, KOLKATA','NEW TOWN/ KOLKATA');
+UPDATE amazonsales
+SET ShipCity = 'NEWASA'
+WHERE ShipCity = 'NEWASA-PHATA, TAL-NEWASA, DIST-AHMEDNAGAR';
+UPDATE amazonsales
+SET ShipCity = 'NEW DELHI'
+WHERE ShipCity = 'NEW-DELHI';
+UPDATE amazonsales
+SET ShipCity = 'NILAMBUR'
+WHERE ShipCity = 'NILAMBUR P O , MALAPPURAM';
+UPDATE amazonsales
+SET ShipCity = 'NIRSA'
+WHERE ShipCity = 'NIRSA DIST-DHANBAD';
+UPDATE amazonsales
+SET ShipCity = 'NJARACKAL'
+WHERE ShipCity = 'NJARACKAL P.O';
+UPDATE amazonsales
+SET ShipCity = 'VIKASNAGAR'
+WHERE ShipCity = 'NK SWEETS VIKASNAGAR';
+UPDATE amazonsales
+SET ShipCity = 'NOIDA'
+WHERE ShipCity IN ('NOIDA 201301','NOIDA PHASE-2','NOIDA SECTOR 76','NOIDA. GAUTAM BUDDH NAGAR');
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'NORTH DELHI';
+UPDATE amazonsales
+SET ShipCity = 'GOA'
+WHERE ShipCity = 'NORTH GOA';
+UPDATE amazonsales
+SET ShipCity = 'GUWAHATI'
+WHERE ShipCity = 'NORTH GUWAHATI';
+UPDATE amazonsales
+SET ShipCity = 'KALAMASSERY'
+WHERE ShipCity = 'NORTH KALAMASSERY';
+UPDATE amazonsales
+SET ShipCity = 'NORTH LAKHIMPUR'
+WHERE ShipCity = 'NORTH LAKHIMPUR-787001';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'NORTH WEST DELHI';
+UPDATE amazonsales
+SET ShipCity = 'BARH'
+WHERE ShipCity = 'NTPC BARH TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'DADRI'
+WHERE ShipCity = 'NTPC DADRI';
+UPDATE amazonsales
+SET ShipCity = 'KANIHA'
+WHERE ShipCity = 'NTPC KANIHA TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'SWAYAMBUVARAM'
+WHERE ShipCity = 'NTPC SIMHADRI TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'SIPAT'
+WHERE ShipCity = 'NTPC SIPAT TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'VAZIDPUR'
+WHERE ShipCity = 'NTPC TANDA COLONY';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'NUNGABAKAM CHENNAI';
+UPDATE amazonsales
+SET ShipCity = 'NUVEM'
+WHERE ShipCity = 'NUVEM.   ( DO NOT RING THE DOOR BELL, CALL B4 COMG';
+UPDATE amazonsales
+SET ShipCity = 'OBRA'
+WHERE ShipCity = 'OBRA SONEBHADRA';
+UPDATE amazonsales
+SET ShipCity = 'POMBURPA'
+WHERE ShipCity = 'OLAULIM POMBURPA';
+UPDATE amazonsales
+SET ShipCity = 'SECUNDERABAD'
+WHERE ShipCity = 'OLD ALWAL  SECUNDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'OLD GOA'
+WHERE ShipCity = 'OLD GOA, NORTH GOA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'OLD PANVEL, NAVI MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'NAVI CHANDIGARH'
+WHERE ShipCity = 'OMAXE NEW CHANDIGARH';
+UPDATE amazonsales
+SET ShipCity = 'KOLLUR'
+WHERE ShipCity = 'OPPOSITE TO SRI MOOKAMBIKA TEMPLE KOLLUR';
+UPDATE amazonsales
+SET ShipCity = 'KUNNAVAKKAM'
+WHERE ShipCity = 'ORAGADAM INDUSTRIAL AREA';
+UPDATE amazonsales
+SET ShipCity = 'OTTAPALAM'
+WHERE ShipCity = 'OTTAPPALAM';
+UPDATE amazonsales
+SET ShipCity = 'NEBADHAI DUTTAPUKUR'
+WHERE ShipCity = 'P. S.  DUTTAPUKUR';
+UPDATE amazonsales
+SET ShipCity = 'PANAJI'
+WHERE ShipCity = 'P.O BAMBOLIM COMPLEX';
+UPDATE amazonsales
+SET ShipCity = 'CHIRAKKAL'
+WHERE ShipCity = 'P.O.CHIRAKKAL';
+UPDATE amazonsales
+SET ShipCity = 'RAHARA'
+WHERE ShipCity = 'P.O.-RAHARA , P.S.-KHARDAH.';
+UPDATE amazonsales
+SET ShipCity = 'PACHWAD'
+WHERE ShipCity = 'PACHWAD TAL WAI DISTRICT SATARA';
+UPDATE amazonsales
+SET ShipCity = 'KOCHI'
+WHERE ShipCity = 'PADAMUGAL, KAKKANAD,KOCHI';
+UPDATE amazonsales
+SET ShipCity = 'PALAKKAD'
+WHERE ShipCity = 'PALAKKADPALAKKAD';
+UPDATE amazonsales
+SET ShipCity = 'TIRUNELVELI'
+WHERE ShipCity = 'PALAYAMKOTTAI, TIRUNELVELI';
+UPDATE amazonsales
+SET ShipCity = 'PALLIPURAM'
+WHERE ShipCity = 'PALLIPPURAM ALAPPUZHA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'THIRUVANANTHAPURAM'
+WHERE ShipCity IN ('PALLIPPURAM THIRUVANANTHAPURAM DISTRICT','Trivandrum');
+UPDATE amazonsales
+SET ShipCity = 'NORTH BARRACKPUR'
+WHERE ShipCity = 'PALTA, NORTH 24 PARAGANAS, WEST BENGAL';
+UPDATE amazonsales
+SET ShipCity = 'CHIRAYINKEEZHU'
+WHERE ShipCity = 'PANDAKASALA CHIRAYINKIZH';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'PANDAV NAGAR JANTA GARDEN';
+UPDATE amazonsales
+SET ShipCity = 'PANIPAT'
+WHERE ShipCity = 'PANIPAT REFINERY TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'THIRUVANANTHAPURAM'
+WHERE ShipCity = 'PAPPANAMCODE THIRUVANANTHAPURAM';
+UPDATE amazonsales
+SET ShipCity = 'PARAS'
+WHERE ShipCity = 'PARAS,AKOLA';
+UPDATE amazonsales
+SET ShipCity = 'PARASI'
+WHERE ShipCity = 'PARASI/ANPARA';
+UPDATE amazonsales
+SET ShipCity = 'PATAS'
+WHERE ShipCity = 'PATAS , DISTRICT DAUND, PUNA';
+UPDATE amazonsales
+SET ShipCity = 'PATHANKOT'
+WHERE ShipCity = 'PATHANKOT ( MAMUN )';
+UPDATE amazonsales
+SET ShipCity = 'PATNA'
+WHERE ShipCity = 'PATNA, PATNA';
+UPDATE amazonsales
+SET ShipCity = 'PATNA'
+WHERE ShipCity = 'PATNAPATNA';
+UPDATE amazonsales
+SET ShipCity = 'PERINGARA'
+WHERE ShipCity = 'PERINGARA P O,TIRUVALLAL';
+UPDATE amazonsales
+SET ShipCity = 'PERINTHALMANNA'
+WHERE ShipCity = 'PERINTALMANNA';
+UPDATE amazonsales
+SET ShipCity = 'NILESHWAR'
+WHERE ShipCity = 'PEROLE,NILESHWAR P.O, KASARAGOD DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'PERUMBAIKAD'
+WHERE ShipCity = 'PERUMBAIKAD - KOTTAYAM';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'PERUMBAKKAM, NEAR CHETTINADU VILLA';
+UPDATE amazonsales
+SET ShipCity = 'CHANGANACHERRY'
+WHERE ShipCity = 'PERUNNA, CHANGANACHERRY, KOTTAYAM';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'PHANIGIRI ROAD,CHAITANYAPURI,HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'PHONDAGHAT'
+WHERE ShipCity = 'PHONDAGHAT, KANKAVLI';
+UPDATE amazonsales
+SET ShipCity = 'PHOOLPUR'
+WHERE ShipCity = 'PHULPUR ALLAHABAD DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'PHOOLPUR'
+WHERE ShipCity = 'PHULPUR,ALLAHABAD';
+UPDATE amazonsales
+SET ShipCity = 'PILANI'
+WHERE ShipCity = 'PILANI TOWN';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'PIMPLE GURAV';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity IN ('PIMPLE SAUDAGAR','PIMPLE SAUDAGAR,  PUNE','PIMPLE SAUDAGAR,PUNE');
+UPDATE amazonsales
+SET ShipCity = 'PIMPRI CHINCHWAD'
+WHERE ShipCity IN ('PIMPRI','PIMPRI - CHINCHWAD','PIMPRI CHINCHAWAD','PIMPRI CHINCHWAD PUNE',
+
+				 'PIMPRI CHINCHWAD, PUNE','PIMPRI PUNE','PIMPRI,PUNE','PIMPRI GAV','PIMPRI-CHICHWAD','PIMPRI-CHINCHWAD,');
+UPDATE amazonsales
+SET ShipCity = 'PIPARIYA'
+WHERE ShipCity = 'PIPARIYA DIST. HOSHANGABAD';
+UPDATE amazonsales
+SET ShipCity = 'PITHAMPUR'
+WHERE ShipCity = 'PITHAMPUR INDUSTRIAL HUB';
+UPDATE amazonsales
+SET ShipCity = 'GURUGRAM'
+WHERE ShipCity = 'PLOT NO.7,SECTOR 47,GURGAON';
+UPDATE amazonsales
+SET ShipCity = 'KHORDHA'
+WHERE ShipCity = 'PO-JAGANNATHPUR,PHULNAKHRA DIST-KHURDA';
+UPDATE amazonsales
+SET ShipCity = 'POLLACHI'
+WHERE ShipCity = 'POLLACHI, COIMBATORE';
+UPDATE amazonsales
+SET ShipCity = 'POLUR'
+WHERE ShipCity = 'POLUR TALUK, THIRUVANAMALAI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'PUDUCHERRY'
+WHERE ShipCity IN ('PONDICHERRY','PONDYCHERRY');
+UPDATE amazonsales
+SET ShipCity = 'PONJASSERY'
+WHERE ShipCity = 'PONJASSERY PERUMBAVOOR';
+UPDATE amazonsales
+SET ShipCity = 'PONKUNNAM'
+WHERE ShipCity IN('PONKUNNAM (KOTTAYAM)','PONKUNNAM, KOTTAYAM DISTRICT');
+UPDATE amazonsales
+SET ShipCity = 'POOVACHAL'
+WHERE ShipCity = 'POOVACHAL PO';
+UPDATE amazonsales
+SET ShipCity = 'POOVATTUPARAMBA'
+WHERE ShipCity = 'POOVATTUPARAMBA, PERUMANNA (PO)';
+UPDATE amazonsales
+SET ShipCity = 'PORT BLAIR'
+WHERE ShipCity IN ('PORT BLAIR , SOUTH ANDAMAN','PORTBLAIR');
+UPDATE amazonsales
+SET ShipCity = 'PORVORIM'
+WHERE ShipCity = 'PORVORIM BARDEZ';
+UPDATE amazonsales
+SET ShipCity = 'HARRAWALA'
+WHERE ShipCity = 'POST OFFICE-HARRAWALA, DEHRADUN';
+
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'POWAI, MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'POYENGE, PANVEL, NEW MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'PORT BLAIR'
+WHERE ShipCity = 'PREM NAGAR, PORT BLAIR';
+UPDATE amazonsales
+SET ShipCity = 'HOJAI'
+WHERE ShipCity = 'PUB DANIRAM PATHER,HOJAI';
+UPDATE amazonsales
+SET ShipCity = 'PUDUPAKKAM'
+WHERE ShipCity = 'PUDUPAKKAM VILLAGE, SIRUSERI';
+UPDATE amazonsales
+SET ShipCity = 'THIRUBUVANAM'
+WHERE ShipCity = 'PULIYAMPETTAI, THIRUPUVANAM THANJAVUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'PIMPRI CHINCHWAD'
+WHERE ShipCity = 'PUNAWALE PIMPRI CHINCHWAD';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity IN ('PUNE 16','PUNE 36','PUNE 411030','PUNE 41104','PUNE CITY','PUNE KALYANI NAGAR',
+
+                                 'PUNE YERWADA','PUNE, MAHARASHTRA','PUNE-24','PUNE-411014','PUNE-411028','PUNE-411062',
+              
+                   'PUNE-412207','PUNE51');
+UPDATE amazonsales
+SET ShipCity = 'PUNGDONGBAM'
+WHERE ShipCity = 'PUNGDONGBAM MAKHA LEIKAI';
+UPDATE amazonsales
+SET ShipCity = 'PHOOLPUR'
+WHERE ShipCity = 'PURA ACCHAI PHULPUR  ALLAHABAD';
+UPDATE amazonsales
+SET ShipCity = 'BARDHAMAN'
+WHERE ShipCity IN ('PURBA BARDHAMAN','PURBO BURDWAN');
+UPDATE amazonsales
+SET ShipCity = 'PURULIA'
+WHERE ShipCity = 'PURULIA I';
+UPDATE amazonsales
+SET ShipCity = 'GURUVAYUR'
+WHERE ShipCity = 'PUTHENPALLY; GURUVAYOOR';
+UPDATE amazonsales
+SET ShipCity = 'PUTHOOR'
+WHERE ShipCity IN ('PUTHUR','PUTHOOR ,KOLLAM');
+UPDATE amazonsales
+SET ShipCity = 'PUTTUR'
+WHERE ShipCity = 'PUTTUR DK';
+UPDATE amazonsales
+SET ShipCity = 'RAEBARELI'
+WHERE ShipCity = 'RAE BARELI';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'RAGHUNALHI BCMC LAYOUT';
+UPDATE amazonsales
+SET ShipCity = 'RAHARA'
+WHERE ShipCity = 'RAHARA BAZAR,KHARDAH';
+UPDATE amazonsales
+SET ShipCity = 'SONIPAT'
+WHERE ShipCity IN ('RAI  INDUSTRIAL AREA','RAI INDUSTRIAL AREA');
+UPDATE amazonsales
+SET ShipCity = 'RAICHUR'
+WHERE ShipCity = 'RAICHUR-584101';
+UPDATE amazonsales
+SET ShipCity = 'RAIGARH'
+WHERE ShipCity = 'RAIGARH TOWN';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'RAIGARH, NAVI MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'RAIPUR'
+WHERE ShipCity = 'RAIPUR 492004';
+UPDATE amazonsales
+SET ShipCity = 'RAJAPALAYAM'
+WHERE ShipCity = 'RAJAPALAYAM VIRUDHUNAGAR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'RAJARHAT'
+WHERE ShipCity IN ('RAJAR HAT','RAJARHAAT , KOLKATA','RAJARHAT, KATHGOLA','RAJARHAT, KOLKATA');
+UPDATE amazonsales
+SET ShipCity = 'RAJGARH'
+WHERE ShipCity = 'RAJGARH ALWAR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'RAJGURUNAGAR'
+WHERE ShipCity = 'RAJGURUNAGAR KHED';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'RAJOURI GARDEN';
+UPDATE amazonsales
+SET ShipCity = 'RAMACHANDRAPURAM'
+WHERE ShipCity = 'RAMACHANDRA PURAM, EAST GODAVARI';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'RAMAPURAM CHENNAI';
+UPDATE amazonsales
+SET ShipCity = 'THRISSUR'
+WHERE ShipCity = 'RAMAVARMAPURAM';
+UPDATE amazonsales
+SET ShipCity = 'RAMGARH'
+WHERE ShipCity = 'RAMGARH CANTONMENT CIVIL TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'RAMGARH'
+WHERE ShipCity = 'RAMGHAR';
+UPDATE amazonsales
+SET ShipCity = 'RAMPACHODAVARAM'
+WHERE ShipCity = 'RAMPACHODAVARAM.EAST GODAVARI DIST';
+UPDATE amazonsales
+SET ShipCity = 'MARGRAM'
+WHERE ShipCity = 'RAMPURHAT II';
+UPDATE amazonsales
+SET ShipCity = 'RANGAREDDY'
+WHERE ShipCity = 'RANGE REDDY DIST';
+UPDATE amazonsales
+SET ShipCity = 'RANGIA'
+WHERE ShipCity = 'RANGIA PART';
+UPDATE amazonsales
+SET ShipCity = 'GUWAHATI'
+WHERE ShipCity = 'RANI BLOCK';
+UPDATE amazonsales
+SET ShipCity = 'RANIPET'
+WHERE ShipCity = 'RANIPET, VELLORE';
+UPDATE amazonsales
+SET ShipCity = 'RANIPET'
+WHERE ShipCity = 'RANIPETTAI';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'RAVET, PUNE';
+UPDATE amazonsales
+SET ShipCity = 'RAXAUL'
+WHERE ShipCity = 'RAXAUL BAZAR';
+UPDATE amazonsales
+SET ShipCity = 'RAYAGADA'
+WHERE ShipCity = 'RAYAGADA RAYAGADA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'CHHINDWARA'
+WHERE ShipCity = 'RAYMOND CHHINDWARA';
+UPDATE amazonsales
+SET ShipCity = 'RENGALI PROJECT TOWNSHIP'
+WHERE ShipCity = 'RENGALI DAM PROJECT TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'RETHARE BK'
+WHERE ShipCity = 'RETHARE BK. TAL KARAD DIST SATARA';
+UPDATE amazonsales
+SET ShipCity = 'GUDLI'
+WHERE ShipCity = 'RIICO INDUSTRIAL AREA GUDLI';
+UPDATE amazonsales
+SET ShipCity = 'KHUSHKHERA'
+WHERE ShipCity = 'RIICO INDUSTRIAL AREA KHUSHKHERA';
+UPDATE amazonsales
+SET ShipCity = 'NEEMRANA'
+WHERE ShipCity = 'RIICO INDUSTRIAL AREA NEEMRANA';
+UPDATE amazonsales
+SET ShipCity = 'RUPANGARH'
+WHERE ShipCity = 'RIICO INDUSTRIAL AREA RUPANGARH';
+UPDATE amazonsales
+SET ShipCity = 'RISALI'
+WHERE ShipCity = 'RISALI BHILAI';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'ROADPALI, KALAMBOLI';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'ROHINI';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'ROHINI SECTOR 23 DELHI';
+UPDATE amazonsales
+SET ShipCity = 'ROHTAK'
+WHERE ShipCity = 'ROHTAK 124001';
+UPDATE amazonsales
+SET ShipCity = 'MEERUT'
+WHERE ShipCity = 'ROORKEE ROAD MEERUT';
+UPDATE amazonsales
+SET ShipCity = 'ROURKELA'
+WHERE ShipCity = 'ROURKELA , DIST - SUNDARGARH';
+UPDATE amazonsales
+SET ShipCity = 'RANGAREDDY'
+WHERE ShipCity = 'RR DIST.';
+UPDATE amazonsales
+SET ShipCity = 'RUPNAGAR'
+WHERE ShipCity = 'RUP NAGAR';
+UPDATE amazonsales
+SET ShipCity = 'VISAKHAPATNAM'
+WHERE ShipCity = 'RUSHIKONDA APIIC';
+UPDATE amazonsales
+SET ShipCity = 'SABANG'
+WHERE ShipCity = 'SABANG, PASCHIM MEDINIPUR';
+UPDATE amazonsales
+SET ShipCity = 'SABBAVARAM'
+WHERE ShipCity = 'SABBAVARAM,VISAKHAPATNAM';
+UPDATE amazonsales
+SET ShipCity = 'SAFIDON'
+WHERE ShipCity = 'SAFIDON, DITT. JIND';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'SAHAR ROAD, ANDHERI-EAST, MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'SAIDABAD'
+WHERE ShipCity = 'SAIDABAD ALLAHABAD';
+UPDATE amazonsales
+SET ShipCity = 'SALBARI'
+WHERE ShipCity = 'SALBARI, SILIGURI';
+UPDATE amazonsales
+SET ShipCity = 'SANGANAPURAM'
+WHERE ShipCity = 'SANGANAPURAM, TIRUNELVELI DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'SANGLI'
+WHERE ShipCity = 'SANGLI MIRAJ KUPWAD';
+UPDATE amazonsales
+SET ShipCity = 'SANGRUR'
+WHERE ShipCity = 'SANGRUR  AFTER 4:00 PM';
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity IN ('SANPADA','SANPADA SECTOR 1');
+UPDATE amazonsales
+SET ShipCity = 'SANT KABIR NAGAR'
+WHERE ShipCity = 'SANT KABIRNAGAR.';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity IN ('SANTA CRUZ','SANTACRUZ EAST, MUMBAI');
+UPDATE amazonsales
+SET ShipCity = 'SANTHAMAGULURU'
+WHERE ShipCity = 'SANTHAMAGULURU MANDAL';
+UPDATE amazonsales
+SET ShipCity = 'SARAIPALI'
+WHERE ShipCity = 'SARAIPALI,  DISTT : MAHASAMUND';
+UPDATE amazonsales
+SET ShipCity = 'GANDHINAGAR'
+WHERE ShipCity = 'SARGASAN, GANDHINAGAR';
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'SAROORNAGAR RR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'SARVABHOUMNAGAR  CHIKALSANDRA  BENGALURU';
+UPDATE amazonsales
+SET ShipCity = 'MYSURU'
+WHERE ShipCity = 'SATAGALLI 1ST STAGE';
+UPDATE amazonsales
+SET ShipCity = 'SATTENAPALLE'
+WHERE ShipCity = 'SATTENAPALLI(MD),GUNTUR(DT)';
+UPDATE amazonsales
+SET ShipCity = 'SATYAVEDU'
+WHERE ShipCity = 'SATYAVEDU MANDAL';
+UPDATE amazonsales
+SET ShipCity = 'FAGU'
+WHERE ShipCity = 'SBI FAGU';
+UPDATE amazonsales
+SET ShipCity = 'GURUGRAM'
+WHERE ShipCity = 'SECTOR 53, GOLF COURSE ROAD, GURUGRAM';
+UPDATE amazonsales
+SET ShipCity = 'SECUNDERABAD'
+WHERE ShipCity IN ('SECUNDERABAD 500094','SECUNDERABAD, HYDERABAD','SECUNDERABAD.','SECUNDERABADSECUNDERABAD','SECUNDRABAD');
+UPDATE amazonsales
+SET ShipCity = 'SELOO'
+WHERE ShipCity = 'SELOO WARDHA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'SHAHABAD'
+WHERE ShipCity = 'SHAHABAD HARDOI';
+UPDATE amazonsales
+SET ShipCity = 'SHAHAPUR'
+WHERE ShipCity = 'SHAHAPUR THANE DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'SHAHUNAGAR, DHARAVI,MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'BADLAPUR'
+WHERE ShipCity = 'SHIRGAON, BADLAPUR EAST';
+UPDATE amazonsales
+SET ShipCity = 'SHIROLI'
+WHERE ShipCity = 'SHIROLI MIDC';
+UPDATE amazonsales
+SET ShipCity = 'THANE'
+WHERE ShipCity = 'SHIVAI NAGAR';
+UPDATE amazonsales
+SET ShipCity = 'BADANAGUPPE'
+WHERE ShipCity = 'SIDCO INDUSTRIAL ESTATE BADANGUPPE KELLAMBALI';
+UPDATE amazonsales
+SET ShipCity = 'HARIDWAR'
+WHERE ShipCity = 'SIDCUL HARIDWAR';
+UPDATE amazonsales
+SET ShipCity = 'SAMOT'
+WHERE ShipCity = 'SIHUNTA/SAMOTE';
+UPDATE amazonsales
+SET ShipCity = 'SIKANDARPUR'
+WHERE ShipCity = 'SIKANDERPUR BALLIA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'SIKKATHAMBUR'
+WHERE ShipCity = 'SIKKATHAMBUR PALAYAM';
+UPDATE amazonsales
+SET ShipCity = 'MUMBAI'
+WHERE ShipCity = 'SION , MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'PERUNDURAI'
+WHERE ShipCity = 'SIPCOT PERUNDURAI';
+UPDATE amazonsales
+SET ShipCity = 'THOOTHUKUDI'
+WHERE ShipCity = 'SIPCOT THOOTHUKUDI';
+UPDATE amazonsales
+SET ShipCity = 'BUKKAPATNA'
+WHERE ShipCity = 'SIRA TALUK, BUKKAPATNA';
+UPDATE amazonsales
+SET ShipCity = 'SIRIYASAR KALAN'
+WHERE ShipCity = 'SIRIYASAR KALAN KA BAAS';
+UPDATE amazonsales
+SET ShipCity = 'SIVAGIRI'
+WHERE ShipCity = 'SIVAGIRI VIRDHUNAGAR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'SOHNA'
+WHERE ShipCity = 'SOHNA ROAD';
+UPDATE amazonsales
+SET ShipCity = 'SHOLAMADEVI'
+WHERE ShipCity = 'SOLAMADEVI TIRUPPUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'SOUTH DELHI';
+UPDATE amazonsales
+SET ShipCity = 'KALAMASSERY'
+WHERE ShipCity = 'SOUTH KALAMASSERY, ERNAKULAM';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'SOUTH WEST DELHI';
+UPDATE amazonsales
+SET ShipCity = 'SRINAGAR'
+WHERE ShipCity = 'SRINAGAR /SRINAGAR';
+UPDATE amazonsales
+SET ShipCity = 'SRINAGAR'
+WHERE ShipCity = 'SRINAGAR GARHWAL';
+UPDATE amazonsales
+SET ShipCity = 'STATION GHANPUR'
+WHERE ShipCity = 'STATION GHANPUR,WARANGAL DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'SUDARSAN NAGAR, MADAMBAKKAM';
+UPDATE amazonsales
+SET ShipCity = 'SULTHAN BATHERY'
+WHERE ShipCity = 'SULTHAN BATHERI';
+UPDATE amazonsales
+SET ShipCity = 'SULUR'
+WHERE ShipCity = 'SULUR TALUK, COIMBATORE';
+UPDATE amazonsales
+SET ShipCity = 'SUNDREL'
+WHERE ShipCity = 'SUNDREL,  DHAR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'T.DASARAHALLI, BANGALORE';
+UPDATE amazonsales
+SET ShipCity = 'VIJAYAWADA'
+WHERE ShipCity = 'TADEPALLI, VIJAYAWADA';
+UPDATE amazonsales
+SET ShipCity = 'AGRA'
+WHERE ShipCity = 'TAJ NAGRI PHASE 2  AGRA';
+UPDATE amazonsales
+SET ShipCity = 'TALEGAON'
+WHERE ShipCity = 'TALEGAON DABHADE';
+UPDATE amazonsales
+SET ShipCity = 'TALEGAON'
+WHERE ShipCity = 'TALEGAON MIDC';
+UPDATE amazonsales
+SET ShipCity = 'TALEGAON'
+WHERE ShipCity = 'TALEGAON STATION';
+UPDATE amazonsales
+SET ShipCity = 'PANAJI'
+WHERE ShipCity IN ('TALEIGAO','TALEIGAO  PANAJI');
+UPDATE amazonsales
+SET ShipCity = 'TALIPARAMBA'
+WHERE ShipCity = 'TALIPARAMBA KANNUR';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity IN ('TAMBARAM','TAMBARAM CHENNAI');
+UPDATE amazonsales
+SET ShipCity = 'HYDERABAD'
+WHERE ShipCity = 'TARNAKA, HYDERABAD';
+UPDATE amazonsales
+SET ShipCity = 'TASAWADE'
+WHERE ShipCity = 'TASAWADE MIDC';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity = 'TATHAWADE  PUNE';
+UPDATE amazonsales
+SET ShipCity = 'DHARAMSHALA'
+WHERE ShipCity = 'TEH. DHARAMSHALA';
+UPDATE amazonsales
+SET ShipCity = 'PHAGWARA'
+WHERE ShipCity = 'TEH. PHAGWARA DISTT. KAPURTHALA';
+UPDATE amazonsales
+SET ShipCity = 'SIKANDRABAD'
+WHERE ShipCity = 'TEHSIL - SIKANDRABAD, DISTRICT - BULANDSHAHR';
+UPDATE amazonsales
+SET ShipCity = 'TEKKALI'
+WHERE ShipCity = 'TEKKALI, SRIKAKULAM';
+UPDATE amazonsales
+SET ShipCity = 'TEZPUR'
+WHERE ShipCity = 'TEZPUR CHANDMARI';
+UPDATE amazonsales
+SET ShipCity = 'KOCHI'
+WHERE ShipCity = 'THAIKKATTUKARA P O, ALUVA';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'THAIYUR, KELAMBAKKAM';
+UPDATE amazonsales
+SET ShipCity = 'THANE'
+WHERE ShipCity IN ('THANE - MUMBAI','THANE - WEST','THANE ( MIRA BHAYANDER)','THANE 400602','THANE BHAYANDERWEST',
+                   
+                                                           'THANE DIST','THANE MUMBAI','THANE WEST','THANE WEST ,MAJIWADE','THANE WEST, MUMBAI',
+ 
+                                                           'THANE, MIRAROAD EAST','THANE, MUMBAI','THANE.  MUMBRA');
+UPDATE amazonsales
+SET ShipCity = 'THENHIPALAM'
+WHERE ShipCity IN ('THENHIPALAM, MALAPPURAM','THENHIPPALAM');
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'THIMMARAYAGOWDA LAYOUT BANASHANKARI 3RD STATGE';
+UPDATE amazonsales
+SET ShipCity = 'PUDUKKOTTAI'
+WHERE ShipCity = 'THIRUGOKARNAM, PUDUKKOTTAI';
+UPDATE amazonsales
+SET ShipCity = 'MADURAI'
+WHERE ShipCity = 'THIRUNAGAR, MADURAI';
+UPDATE amazonsales
+SET ShipCity = 'THIRUBUVANAM'
+WHERE ShipCity = 'THIRUPUVANAM THANJAVUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'THIRUVALLA'
+WHERE ShipCity = 'THIRUVALLA , PATHANAMTHITTA (DISTRICT)';
+UPDATE amazonsales
+SET ShipCity = 'THIRUVANANTHAPURAM'
+WHERE ShipCity = 'THIRUVANANTHAPURAM DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'THOOTHUKUDI'
+WHERE ShipCity IN ('THOOTHUKKUDI','THOOTHUKUDI 628008');
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'THORAIPAKKAM, CHENNAI';
+UPDATE amazonsales
+SET ShipCity = 'THOTTADA'
+WHERE ShipCity = 'THOTTADA (PO)';
+UPDATE amazonsales
+SET ShipCity = 'THRIKKAKARA'
+WHERE ShipCity IN ('THRIKAKKARA','THRIKAKARA');
+UPDATE amazonsales
+SET ShipCity = 'CHANGANACHERRY'
+WHERE ShipCity = 'THRIKKODITHANAM P O, CHANGANACHERRY';
+UPDATE amazonsales
+SET ShipCity = 'ERNAKULAM'
+WHERE ShipCity IN ('THRIPUNITHURA','THRIPPUNITHURA');
+UPDATE amazonsales
+SET ShipCity = 'THRISSUR'
+WHERE ShipCity = 'THRISSUR [NO NEED TO CALL ME].';
+UPDATE amazonsales
+SET ShipCity = 'THRISSUR'
+WHERE ShipCity IN ('THRISSUR DISTRICT','THRISSUR DT','THRISUR');
+UPDATE amazonsales
+SET ShipCity = 'KUTHIRAN'
+WHERE ShipCity = 'THURANGAM KAVALA';
+UPDATE amazonsales
+SET ShipCity = 'TILHAR'
+WHERE ShipCity = 'TILHAR, 9717754694';
+UPDATE amazonsales
+SET ShipCity = 'TINSUKIA'
+WHERE ShipCity = 'TINSUKIA DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'TIRUNELVELI'
+WHERE ShipCity IN ('TIRUNELVELI DISTRICT','TIRUNELVELI-TOWN','TIRUNELVELLI DIST');
+UPDATE amazonsales
+SET ShipCity = 'TIRUPATI'
+WHERE ShipCity = 'TIRUPATI (RURAL)';
+UPDATE amazonsales
+SET ShipCity = 'TIRUPPUR'
+WHERE ShipCity = 'TIRUPUR';
+UPDATE amazonsales
+SET ShipCity = 'TIRUR'
+WHERE ShipCity IN ('TIRUR MALAPPURAM','TIRUR, MALAPPURAM');
+UPDATE amazonsales
+SET ShipCity = 'TIRUVANNAMALAI'
+WHERE ShipCity = 'TIRUVANNAMALAI DT';
+UPDATE amazonsales
+SET ShipCity = 'TIRWAGANJ'
+WHERE ShipCity = 'TIRWAGANJ KANNAUJ';
+UPDATE amazonsales
+SET ShipCity = 'TITWALA'
+WHERE ShipCity IN ('TITWALA ( EAST)','TITWALA EAST');
+UPDATE amazonsales
+SET ShipCity = 'KANDAMANGALAM'
+WHERE ShipCity = 'TOWN';
+UPDATE amazonsales
+SET ShipCity = 'MAPUCA'
+WHERE ShipCity = 'TOWN MAPUSA';
+UPDATE amazonsales
+SET ShipCity = 'HUSSAINPUR KALAN'
+WHERE ShipCity = 'TOWN.BUDHANA VILLAGE. HUSAINPUR KALAN';
+UPDATE amazonsales
+SET ShipCity = 'TUMAKURU'
+WHERE ShipCity IN ('TUMAKURU. PHONE NUMBER 9686000855','TUMKUR','TUMKUR DISTRICT');
+UPDATE amazonsales
+SET ShipCity = 'GURUGRAM'
+WHERE ShipCity = 'UDYOGH VIHAR PHASE 2';
+UPDATE amazonsales
+SET ShipCity = 'ULHASNAGAR'
+WHERE ShipCity IN ('ULHASNAGAR 4','ULHASNAGAR 421004');
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity = 'ULWE,NAVI MUMBAI';
+UPDATE amazonsales
+SET ShipCity = 'UMARIA'
+WHERE ShipCity = 'UMARIA BANDHAWAGARH';
+UPDATE amazonsales
+SET ShipCity = 'UPPER TADONG'
+WHERE ShipCity = 'UPPER TADONG BAZAAR';
+UPDATE amazonsales
+SET ShipCity = 'CHENNAI'
+WHERE ShipCity = 'URAPPAKKAM,CHENNAI';
+UPDATE amazonsales
+SET ShipCity = 'SHIVAMOGGA'
+WHERE ShipCity = 'URGADUR. SHIVAMOGGA';
+UPDATE amazonsales
+SET ShipCity = 'URMAR TANDA'
+WHERE ShipCity = 'URMAR TANDA, HOSHIARPUR';
+UPDATE amazonsales
+SET ShipCity = 'USAR'
+WHERE ShipCity = 'USAR MIDC';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'UTTAM NAGAR';
+UPDATE amazonsales
+SET ShipCity = 'VATAKARA'
+WHERE ShipCity IN ('VADAKARA','VADAKARA KOZHIKODE DISTRICT');
+UPDATE amazonsales
+SET ShipCity = 'NAIGAON'
+WHERE ShipCity = 'VADAVALI, NAIGAON, VASAI';
+UPDATE amazonsales
+SET ShipCity = 'VADODARA'
+WHERE ShipCity IN ('VADODARA - 390019','VADODARA 390019');
+UPDATE amazonsales
+SET ShipCity = 'KOCHI'
+WHERE ShipCity = 'VADUTHALA,KOCHI';
+UPDATE amazonsales
+SET ShipCity = 'VAKADU'
+WHERE ShipCity = 'VAKADU(M)';
+UPDATE amazonsales
+SET ShipCity = 'VALLAM'
+WHERE ShipCity = 'VALLAM THANJAVUR DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'VALLAPUZHA'
+WHERE ShipCity = 'VALLAPUZHA PALAKKAD';
+UPDATE amazonsales
+SET ShipCity = 'RASIPURAM'
+WHERE ShipCity = 'VANDIPETTAI, KURUKUPURAM, RASIPURAM, NAMAKKAL';
+UPDATE amazonsales
+SET ShipCity = 'VAPI'
+WHERE ShipCity = 'VAPI VALSAD';
+UPDATE amazonsales
+SET ShipCity = 'VARANASI'
+WHERE ShipCity IN ('VARANAI','VARANAS','VARANASIVARANASI');
+UPDATE amazonsales
+SET ShipCity = 'VASAI VIRAR'
+WHERE ShipCity IN ('VASAI','VASAI (E)','VASAI EAST','VASAI WEST','VASAI(WEST)','VASAI,PALGHAR','VASAI-VIRAR');
+UPDATE amazonsales
+SET ShipCity = 'NAVI MUMBAI'
+WHERE ShipCity IN ('VASHI','VASHI, NAVI MUMBAI','VASHI, NEW MUMBAI.');
+UPDATE amazonsales
+SET ShipCity = 'JHARSUGUDA'
+WHERE ShipCity = 'VEDANTA JHARSUGUDA';
+UPDATE amazonsales
+SET ShipCity = 'THIRUVANANTHAPURAM'
+WHERE ShipCity = 'VELLAYANI PO.';
+UPDATE amazonsales
+SET ShipCity = 'KANSAVLIM'
+WHERE ShipCity = 'VELSAO,CANSAULIM';
+UPDATE amazonsales
+SET ShipCity = 'VENGOLA'
+WHERE ShipCity = 'VENGOLA, PERUMBAVOOR';
+UPDATE amazonsales
+SET ShipCity = 'VERAVAL'
+WHERE ShipCity = 'VERAVAL RAJKOT DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'BIJAINAGAR'
+WHERE ShipCity = 'VIJAINAGAR AJMER DISTRICT';
+UPDATE amazonsales
+SET ShipCity = 'VIJAYAPURA'
+WHERE ShipCity IN ('VIJAPURA','VIJAYAPUR','VIJAYAPUR.','VIJAYPUR KOULPUR','VIJAYPURA');
+UPDATE amazonsales
+SET ShipCity = 'VORASAMNI'
+WHERE ShipCity = 'VILAYAT GIDC';
+UPDATE amazonsales
+SET ShipCity = 'VILLUPURAM'
+WHERE ShipCity = 'VILLUPURAM.';
+UPDATE amazonsales
+SET ShipCity = 'VINDHYANAGAR'
+WHERE ShipCity = 'VINDHYA NAGAR NTPC TOWNSHIP';
+UPDATE amazonsales
+SET ShipCity = 'SHIMOGA'
+WHERE ShipCity IN ('VINOBANAGAR,SHIMOGA','SHIVAMOGGA');
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'VIPIN GARDEN';
+UPDATE amazonsales
+SET ShipCity = 'VIRAJPET'
+WHERE ShipCity = 'VIRAJPETE';
+UPDATE amazonsales
+SET ShipCity = 'VIRAR'
+WHERE ShipCity IN ('VIRAR (W)','VIRAR WEST');
+UPDATE amazonsales
+SET ShipCity = 'VISAKHAPATNAM'
+WHERE ShipCity IN ('VISAKHAPATANM','VISHAKAPATNAM','VISHAKHAPATNAM');
+UPDATE amazonsales
+SET ShipCity = 'SANGLI'
+WHERE ShipCity IN ('VISHRAMBAG SANGLI','VISHRAMBHAG SANGLI');
+UPDATE amazonsales
+SET ShipCity = 'VIZIANAGARAM'
+WHERE ShipCity = 'VIZIANAGARAM A';
+UPDATE amazonsales
+SET ShipCity = 'VRINDAVAN'
+WHERE ShipCity = 'VRINDAVAN, MATHURA';
+UPDATE amazonsales
+SET ShipCity = 'VYPIN'
+WHERE ShipCity = 'VYPIN ,EDAVANAKAD';
+UPDATE amazonsales
+SET ShipCity = 'THRISSUR'
+WHERE ShipCity = 'WADAKANCHERI,THRISSUR';
+UPDATE amazonsales
+SET ShipCity = 'PUNE'
+WHERE ShipCity IN ('WAGHOLI ,PUNE','WAGHOLI, PUNE');
+UPDATE amazonsales
+SET ShipCity = 'WALUJ'
+WHERE ShipCity = 'WALUJ MIDC';
+UPDATE amazonsales
+SET ShipCity = 'WARANGAL'
+WHERE ShipCity = 'WARANGAL URBAN';
+UPDATE amazonsales
+SET ShipCity = 'WAYAGAON'
+WHERE ShipCity = 'WCL UMRED';
+UPDATE amazonsales
+SET ShipCity = 'DELHI'
+WHERE ShipCity = 'WEST DELHI';
+UPDATE amazonsales
+SET ShipCity = 'KOLLAPARRU'
+WHERE ShipCity = 'WEST GODAVARI';
+UPDATE amazonsales
+SET ShipCity = 'GOILKERA'
+WHERE ShipCity = 'WEST SINGHBHUM';
+UPDATE amazonsales
+SET ShipCity = 'AGARTALA'
+WHERE ShipCity = 'WEST TRIPURA';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'WHITEFIELD';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'YELAHANKA, BANGALORE';
+UPDATE amazonsales
+SET ShipCity = 'VADDIPARRU'
+WHERE ShipCity = 'YELAMANCHILI';
+UPDATE amazonsales
+SET ShipCity = 'BENGALURU'
+WHERE ShipCity = 'YESHWANTHPUR BANGALORE';
+UPDATE amazonsales
+SET ShipCity = 'DHARAMSHALA'
+WHERE ShipCity = 'YOL';
+UPDATE amazonsales
+SET ShipCity = 'ZIRAKPUR'
+WHERE ShipCity = 'ZIRAKPUR PUNJAB MOHALI';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
